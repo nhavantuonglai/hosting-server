@@ -5,7 +5,7 @@ description: >-
  phòng trừ nó hay không?
 ---
 
-# Các rủi ro mà các quỹ đầu tư ETF có thể gặp trên thị trường
+title: Các rủi ro mà các quỹ đầu tư ETF có thể gặp trên thị trường
 
 ‍_Rủi ro trên thị trường là điều tất yếu khi đầu tư, với quỹ đầu tư ETF thì điều này càng rõ ràng hơn nữa. Nhưng có giải pháp nào để ngăn chặn rủi ro, và phòng trừ nó hay không? Cùng tham khảo ngay bài viết sau để có câu trả lời nhé._
 

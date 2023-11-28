@@ -5,7 +5,7 @@ description: >-
  mềm quản lý khác PMS.
 ---
 
-# Blue Jay PMS ra mắt sản phẩm website khách sạn hoàn toàn mới, chú trọng tốc độ và hiệu quả
+title: Blue Jay PMS ra mắt sản phẩm website khách sạn hoàn toàn mới, chú trọng tốc độ và hiệu quả
 
 _Sau quá trình nghiên cứu về website hiệu quả nhất cho khách sạn, Blue Jay PMS ra mắt sản phẩm website khách sạn mới hoàn toàn, dựa trên kiến trúc của phần mềm quản lý khác Pms, giúp các khách sạn xây dựng và phát triển thương hiệu trực tuyến hiệu quả hơn. Cùng tìm hiểu những tính năng, và lợi ích mà sản phẩm này đem lại cho các khách sạn trong bài viết sau._
 

@@ -5,7 +5,7 @@ description: >-
  bài viết này, hãy cùng tìm hiểu.
 ---
 
-# Áp dụng công nghệ giúp các khách sạn kinh doanh hiệu quả hơn như thế nào?
+title: Áp dụng công nghệ giúp các khách sạn kinh doanh hiệu quả hơn như thế nào?
 
 _Các khách sạn khai thác và tận dụng sức mạnh công nghệ hiệu quả, nhằm nâng cao chất lượng kinh doanh khách sạn đang là xu hướng khách sạn quan trọng. Trong bài viết này, hãy cùng tìm hiểu về những ứng dụng công nghệ giúp khách sạn tối ưu hoạt động kinh doanh, và đem lại trải nghiệm tốt hơn cho khách đặt phòng._
 

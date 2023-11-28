@@ -5,7 +5,7 @@ description: >-
  năng tìm thấy khách sạn.
 ---
 
-# 5 điều cần làm để website khách sạn của bạn luôn hoạt động như ý
+title: 5 điều cần làm để website khách sạn của bạn luôn hoạt động như ý
 
 _Dù quản lý khách sạn lớn hay nhỏ, thì tầm quan trọng của website cũng đều như nhau. Suy cho cùng, website khách sạn chính là nơi đầu tiên mà khách hàng tiềm năng tìm thấy khách sạn của bạn. Chính vì vậy, việc đảm bảo website hoạt động hiệu quả là điều cần phải có, và dưới đây là 5 gợi ý để đảm bảo website hoạt động đúng như ý, giúp cải thiện hoạt động kinh doanh khách sạn được tốt hơn._
 
