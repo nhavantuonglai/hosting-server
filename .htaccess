@@ -1,4 +1,1 @@
 ErrorDocument 404 /404.html
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^nhavantuonglai.com/viet-lach/$1 [NC]
-RewriteRule ^(.*)$ www.nhavantuonglai.com/viet-lach/$1 [L,R=301,NC]
