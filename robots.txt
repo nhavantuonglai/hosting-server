@@ -2,6 +2,6 @@ User-agent: Googlebot
 Disallow: /nogooglebot/
 
 User-agent: *
-Allow: /
+Disallow: /
 
 Sitemap: https://core.nhavantuonglai.com/sitemap.xml
