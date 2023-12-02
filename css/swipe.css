@@ -11649,6 +11649,7 @@ button.close {
 .my-4 {
     margin-top: 1.5rem !important;
     margin-bottom: 1.5rem !important;
+	text-align:justify
 }
 
 .my-5 {
@@ -12565,6 +12566,7 @@ button.close {
 .px-2 {
     padding-right: 0.5rem !important;
     padding-left: 0.5rem !important;
+	text-align:justify
 }
 
 .px-3 {
