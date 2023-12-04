@@ -16,25 +16,25 @@ Nếu bạn quan tâm đến viết lách và văn học, hãy theo dõi website
 
 Trang tuyển tập các bài viết lách của nhavantuonglai. Nội dung gốc, được biên tập và chia sẻ dựa trên quan điểm cá nhân, nên có thể hơi phiến diện trong một vài vấn đề.
 
-Truy cập [Viết lách](https://info.nhavantuonglai.com/viet-lach).
+Truy cập [Viết lách](https://nhavantuonglai.com/viet-lach/).
 
 ### Viết thuê
 
 Trang tuyển tập các bài viết thuê của nhavantuonglai. Nội dung gốc, được viết theo yêu cầu và mục đích viết, xây dựng cấu trúc bài chuẩn SEO nên có thể không thân thiện với người đọc.
 
-Truy cập [Viết thuê](https://info.nhavantuonglai.com/viet-thue).
+Truy cập [Viết thuê](https://nhavantuonglai.com/viet-thue/).
 
 ### Thư viện
 
 Tuyển tập tài liệu của nhavantuonglai. Nội dung sưu tầm, tuyển chọn từ nhiều nguồn, mục đích là lưu trữ và chia sẻ trong trường hợp nội dung gốc thất lạc, hư hỏng.
 
-Truy cập [Thư viện](https://info.nhavantuonglai.com/thu-vien).
+Truy cập [Thư viện](https://nhavantuonglai.com/thu-vien/).
 
 ### Developer
 
 Hệ thống code, mã lập trình của nhavantuonglai. Nội dung vừa sưu tầm và sáng tạo, biên tập dựa trên mục đích cho từng sản phẩm cụ thể.
 
-Truy cập [Developer](https://info.nhavantuonglai.com/developer).
+Truy cập [Developer](https://nhavantuonglai.com/developer/).
 
 ## Ủng hộ
 
@@ -70,13 +70,13 @@ Hoặc đơn giản, bấm follow [Instagram](https://info.nhavantuonglai.com/in
 
 [Instagram](https://info.nhavantuonglai.com/instagram)
 
-[Fanpage](https://www.facebook.com/tramcuuhotinhthan/)
+[Fanpage](https://info.nhavantuonglai.com/fanpage)
 
 [Facebook cá nhân](https://www.facebook.com/nhavantuonglai/)
 
 [Website](https://nhavantuonglai.com/)
 
-[Twitter](https://twitter.com/nhavantuonglai/)
+[Twitter](https://info.nhavantuonglai.com/twitter)
 
 ### Kênh chia hình ảnh
 
