@@ -42,7 +42,7 @@ Nếu nội dung bạn vừa đọc là hữu ích, đem lại giá trị cho b�
 
 ### Ủng hộ qua MoMo
 
-<figure><img src="https://info.nhavantuonglai.com/momo" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://nhavantuonglai.com/assets/image/clients/client-momo-donate.jpg" alt="client-momo-donate" height=100% width=100%><figcaption><p>client-momo-donate-nhavantuonglai</p></figcaption></figure>
 
 ### Ủng hộ qua ngân hàng
 
