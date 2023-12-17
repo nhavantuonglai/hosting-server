@@ -47,21 +47,13 @@ Nếu nội dung bạn vừa đọc là hữu ích, đem lại giá trị cho b�
 ### Ủng hộ qua ngân hàng
 
 MB Bank
-
-{% code overflow="wrap" %}
 ```
 0000 14032 9999
 ```
-{% endcode %}
-
 VP Bank
-
-{% code overflow="wrap" %}
 ```
 8870 4444
 ```
-{% endcode %}
-
 Hoặc đơn giản, bấm follow [Instagram](https://info.nhavantuonglai.com/instagram) của mình.
 
 ## Thông tin liên lạc
@@ -108,20 +100,22 @@ Hoặc liên hệ trực tiếp qua Instagram: [nhavantuonglai](https://info.nha
 
 ## Phiên bản cập nhật
 
-[Lịch sử phiên bản](https://nhavantuonglai.com/about/update)
+[Lịch sử phiên bản](https://nhavantuonglai.com/)
 
 ### Phiên bản v01.00.00
 
 Thêm trang
 1. Khởi động.
 
-### Phiên bản v01.06.06
-
-Cập nhật trang
-1. Điều chỉnh danh sách bài.
-2. Hoàn chỉnh giao diện.
-3. Hiệu ứng Carousel.
+### Phiên bản v02.00.00
 
 Thêm trang
-1. About: Cập nhật.
-2. About: Sơ đồ trang.
+1. Khởi động.
+
+### Phiên bản v02.02.01
+
+Cập nhật trang
+
+1. Hoàn thiện giao diện v02.
+2. Định hướng chuyển sang one page.
+3. Tối ưu hình ảnh.
