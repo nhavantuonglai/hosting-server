@@ -1,3 +1,7 @@
+_Security mô tả các nguyên tắc về bản quyền, nội dung và nghĩa vụ liên quan đến dự án website-onewriter của nhavantuonglai. Phạm vi điều chỉnh có thể cập nhật mà không báo trước, vui lòng truy cập thường xuyên để nắm bắt các thay đổi (nếu có)._
+
+# Về bản quyền, nội dung và nghĩa vụ liên quan đến dự án
+
 Security mô tả các nguyên tắc về bản quyền, nội dung và nghĩa vụ liên quan đến dự án website-onewriter của nhavantuonglai. Phạm vi điều chỉnh có thể cập nhật mà không báo trước, vui lòng truy cập thường xuyên để nắm bắt các thay đổi (nếu có).
 
 ## I. Bản quyền
