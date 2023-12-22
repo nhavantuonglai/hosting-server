@@ -1,3 +1,5 @@
+Security mô tả các nguyên tắc về bản quyền, nội dung và nghĩa vụ liên quan đến dự án website-onewriter của nhavantuonglai. Phạm vi điều chỉnh có thể cập nhật mà không báo trước, vui lòng truy cập thường xuyên để nắm bắt các thay đổi (nếu có).
+
 ## I. Bản quyền
 
 ### 1. Bản quyền temlplate website
@@ -59,8 +61,6 @@ Người đọc có nghĩa vụ phản biện, đánh giá và lựa chọn tin 
 Người đọc tự chịu trách nhiệm cho việc sử dụng các nội dung đăng tải trên website. Người đọc cần tự xem xét, đánh giá, và lựa chọn các nội dung phù hợp với mục đích, nhu cầu, và hoàn cảnh của bản thân. Người đọc cũng cần tuân thủ các quy định pháp luật, đạo đức, và thuần phong mỹ tục khi sử dụng các nội dung đăng tải trên website.
 
 ## V. Nguyên tắc loại trừ và từ chối chịu trách nhiệm
-
-
 
 nhavantuonglai không chịu trách nhiệm cho bất kỳ thiệt hại, tổn thất, hoặc tranh chấp nào phát sinh với bên khác từ việc sử dụng hoặc tin tưởng vào các nội dung đăng tải trên website mà không có ý kiến tham vấn từ chuyên gia có kinh nghiệm và trách nhiệm tư vấn về vấn đề ấy, bao gồm nguyên nhân chủ quan từ nhavantuonglai lẫn nguyên nhân khách quan từ người đọc.
 
