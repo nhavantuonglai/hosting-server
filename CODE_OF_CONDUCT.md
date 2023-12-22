@@ -1,4 +1,6 @@
-# Quy tắc ứng xử công dân
+_Mục tiêu chính của dự án website-onewriter là thu hút được số lượng người đóng góp lớn nhất, với nền tảng đa dạng và phong phú nhất có thể. Vì vậy, chúng tôi cam kết cung cấp một môi trường thân thiện, an toàn và chào đón cho tất cả mọi người, bất kể giới tính, khuynh hướng tình dục, khả năng, dân tộc, tình trạng kinh tế xã hội và tôn giáo._
+
+# Về quy tắc ứng xử công dân
 
 Mục tiêu chính của dự án website-onewriter là thu hút được số lượng người đóng góp lớn nhất, với nền tảng đa dạng và phong phú nhất có thể. Vì vậy, chúng tôi cam kết cung cấp một môi trường thân thiện, an toàn và chào đón cho tất cả mọi người, bất kể giới tính, khuynh hướng tình dục, khả năng, dân tộc, tình trạng kinh tế xã hội và tôn giáo.
 
