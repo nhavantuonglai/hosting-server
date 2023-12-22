@@ -1,94 +1,92 @@
-# Citizen Code of Conduct
+# Quy tắc ứng xử công dân
 
-## 1. Purpose
+Mục tiêu chính của dự án website-onewriter là thu hút được số lượng người đóng góp lớn nhất, với nền tảng đa dạng và phong phú nhất có thể. Vì vậy, chúng tôi cam kết cung cấp một môi trường thân thiện, an toàn và chào đón cho tất cả mọi người, bất kể giới tính, khuynh hướng tình dục, khả năng, dân tộc, tình trạng kinh tế xã hội và tôn giáo.
 
-A primary goal of Website Onewriter is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+## 1. Mục đích
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+Mục tiêu chính của dự án website-onewriter là thu hút được số lượng người đóng góp lớn nhất, với nền tảng đa dạng và phong phú nhất có thể. Vì vậy, chúng tôi cam kết cung cấp một môi trường thân thiện, an toàn và chào đón cho tất cả mọi người, bất kể giới tính, khuynh hướng tình dục, khả năng, dân tộc, tình trạng kinh tế xã hội và tôn giáo.
 
-We invite all those who participate in Website Onewriter to help us create safe and positive experiences for everyone.
+Quy tắc ứng xử này nêu rõ những kỳ vọng của chúng tôi đối với tất cả những người tham gia vào cộng đồng của chúng tôi, cũng như những hậu quả đối với hành vi không thể chấp nhận được.
 
-## 2. Open [Source/Culture/Tech] Citizenship
+Chúng tôi mời tất cả những người tham gia dự án website-onewriter để giúp chúng tôi tạo ra những trải nghiệm an toàn và tích cực cho mọi người.
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+## 2. Quyền công dân mở
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+Mục tiêu bổ sung của Quy tắc ứng xử này là tăng cường quyền công dân mở bằng cách khuyến khích người tham gia nhận ra và củng cố mối quan hệ giữa hành động của chúng tôi và tác động của chúng đối với cộng đồng của chúng tôi.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+Các cộng đồng phản ánh xã hội nơi họ tồn tại và hành động tích cực là điều cần thiết để chống lại nhiều hình thức bất bình đẳng và lạm dụng quyền lực đang tồn tại trong xã hội.
 
-## 3. Expected Behavior
+Nếu bạn thấy ai đó đang nỗ lực nhiều hơn để đảm bảo cộng đồng của chúng tôi luôn chào đón, thân thiện và khuyến khích tất cả những người tham gia đóng góp ở mức tối đa, thì chúng tôi muốn biết.
 
-The following behaviors are expected and requested of all community members:
+## 3. Hành vi mong đợi
 
- * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
- * Exercise consideration and respect in your speech and actions.
- * Attempt collaboration before conflict.
- * Refrain from demeaning, discriminatory, or harassing behavior and speech.
- * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
- * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+Các hành vi sau đây được mong đợi và yêu cầu đối với tất cả các thành viên cộng đồng:
 
-## 4. Unacceptable Behavior
+–  Tham gia một cách chân thực và tích cực. Khi làm như vậy, bạn đang đóng góp cho sức khỏe và sự trường tồn của cộng đồng này.
 
-The following behaviors are considered harassment and are unacceptable within our community:
+–  Hãy thể hiện sự cân nhắc và tôn trọng trong lời nói và hành động của mình.
 
- * Violence, threats of violence or violent language directed against another person.
- * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
- * Posting or displaying sexually explicit or violent material.
- * Posting or threatening to post other people's personally identifying information ("doxing").
- * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
- * Inappropriate photography or recording.
- * Inappropriate physical contact. You should have someone's consent before touching them.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Deliberate intimidation, stalking or following (online or in person).
- * Advocating for, or encouraging, any of the above behavior.
- * Sustained disruption of community events, including talks and presentations.
+–  Cố gắng hợp tác trước xung đột.
 
-## 5. Weapons Policy
+–  Tránh những hành vi và lời nói hạ thấp phẩm giá, phân biệt đối xử hoặc quấy rối.
 
-No weapons will be allowed at Website Onewriter events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+–  Hãy chú ý đến môi trường xung quanh và những người tham gia cùng bạn. Cảnh báo cho các nhà lãnh đạo cộng đồng nếu bạn nhận thấy một tình huống nguy hiểm, ai đó gặp nạn hoặc vi phạm Quy tắc ứng xử này, ngay cả khi chúng có vẻ không quan trọng.
 
-## 6. Consequences of Unacceptable Behavior
+–  Hãy nhớ rằng các địa điểm tổ chức sự kiện cộng đồng có thể được chia sẻ với công chúng; hãy tôn trọng tất cả khách hàng quen của những địa điểm này.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+## 4. Hành vi không được chấp nhận
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Các hành vi sau đây được coi là quấy rối và không được chấp nhận trong cộng đồng của chúng ta:
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+–  Bạo lực, đe dọa bạo lực hoặc ngôn ngữ bạo lực nhằm vào người khác.
 
-## 7. Reporting Guidelines
+–  Những trò đùa và ngôn ngữ phân biệt giới tính, phân biệt chủng tộc, kỳ thị người đồng tính, người chuyển giới, người theo chủ nghĩa khả năng hoặc phân biệt đối xử.
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. info@nhavantuonglai.com.
+–  Đăng hoặc hiển thị tài liệu khiêu dâm hoặc bạo lực.
 
+–  Đăng hoặc đe dọa đăng thông tin nhận dạng cá nhân của người khác.
+–  Xúc phạm cá nhân, đặc biệt là những lời lăng mạ liên quan đến giới tính, khuynh hướng tình dục, chủng tộc, tôn giáo hoặc khuyết tật.
 
+–  Chụp ảnh hoặc ghi âm không phù hợp.
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+–  Tiếp xúc vật lý không phù hợp. Bạn nên có sự đồng ý của ai đó trước khi chạm vào họ.
 
-## 8. Addressing Grievances
+–  Sự chú ý tình dục không được chào đón. Điều này bao gồm những bình luận hoặc trò đùa mang tính chất khiêu dâm; sự đụng chạm không phù hợp, sờ soạng và tán tỉnh tình dục không được hoan nghênh.
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify  with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
+–  Cố tình đe dọa, theo dõi hoặc theo dõi (trực tuyến hoặc trực tiếp).
 
+–  Ủng hộ hoặc khuyến khích bất kỳ hành vi nào ở trên.
 
+–  Sự gián đoạn kéo dài của các sự kiện cộng đồng, bao gồm các buổi nói chuyện và thuyết trình.
 
-## 9. Scope
+## 5. Chính sách vũ khí
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
+Không được phép sử dụng vũ khí tại các sự kiện của website–onewriter, không gian cộng đồng hoặc trong các không gian khác thuộc phạm vi của Quy tắc ứng xử này. Vũ khí bao gồm nhưng không giới hạn ở súng, chất nổ (kể cả pháo hoa) và dao lớn như những loại dùng để săn bắn hoặc trưng bày cũng như bất kỳ vật dụng nào khác được sử dụng nhằm mục đích gây thương tích hoặc làm hại người khác. Bất kỳ ai bị phát hiện sở hữu một trong những món đồ này sẽ được yêu cầu rời đi ngay lập tức và chỉ được phép quay lại mà không có vũ khí. Ngoài ra, các thành viên cộng đồng còn phải tuân thủ tất cả luật pháp của tiểu bang và địa phương về vấn đề này.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+## 6. Hậu quả của hành vi không được chấp nhận
 
-## 10. Contact info
+Hành vi không thể chấp nhận được từ bất kỳ thành viên cộng đồng nào, bao gồm các nhà tài trợ và những người có thẩm quyền ra quyết định, sẽ không được dung thứ.
 
-info@nhavantuonglai.com
+Bất cứ ai được yêu cầu dừng hành vi không thể chấp nhận được đều phải tuân thủ ngay lập tức.
 
-## 11. License and attribution
+Nếu một thành viên cộng đồng có hành vi không thể chấp nhận được, người tổ chức cộng đồng có thể thực hiện bất kỳ hành động nào mà họ cho là phù hợp, bao gồm lệnh cấm tạm thời hoặc trục xuất vĩnh viễn khỏi cộng đồng mà không cần cảnh báo (và không hoàn lại tiền trong trường hợp sự kiện phải trả phí).
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+## 7. Nguyên tắc báo cáo
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+Nếu bạn phải chứng kiến hoặc chứng kiến hành vi không thể chấp nhận được hoặc có bất kỳ mối lo ngại nào khác, vui lòng thông báo cho người tổ chức cộng đồng càng sớm càng tốt. info@nhavantuonglai.com.
 
-_Revision 2.3. Posted 6 March 2017._
+Ngoài ra, các nhà tổ chức cộng đồng sẵn sàng giúp đỡ các thành viên cộng đồng tham gia thực thi pháp luật địa phương hoặc giúp những người gặp phải hành vi không thể chấp nhận được cảm thấy an toàn. Trong bối cảnh các sự kiện trực tiếp, ban tổ chức cũng sẽ cung cấp người hộ tống theo mong muốn của người gặp nạn.
 
-_Revision 2.2. Posted 4 February 2016._
+## 8. Giải quyết khiếu nại
 
-_Revision 2.1. Posted 23 June 2014._
+Nếu bạn cảm thấy mình bị buộc tội sai trái hoặc không công bằng khi vi phạm Quy tắc ứng xử này, bạn nên thông báo kèm theo mô tả ngắn gọn về khiếu nại của mình. Khiếu nại của bạn sẽ được quản lý theo các chính sách quản lý hiện hành của chúng tôi.
 
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+## 9. Phạm vi
+
+Chúng tôi kỳ vọng tất cả những người tham gia cộng đồng (người đóng góp, được trả tiền hoặc cách khác; nhà tài trợ và khách khác) tuân thủ Quy tắc ứng xử này ở tất cả các địa điểm cộng đồng trực tuyến và trực tiếp cũng như trong tất cả các hoạt động liên lạc trực tiếp liên quan đến tới hoạt động kinh doanh cộng đồng.
+
+Quy tắc ứng xử này và các thủ tục liên quan cũng áp dụng cho hành vi không thể chấp nhận được xảy ra ngoài phạm vi hoạt động cộng đồng khi hành vi đó có khả năng ảnh hưởng xấu đến sự an toàn và phúc lợi của các thành viên cộng đồng.
+
+## 10. Thông tin liên hệ
+
+info@nhavantuonglai.com.
