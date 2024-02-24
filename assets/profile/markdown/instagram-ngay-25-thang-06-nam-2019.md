@@ -1,0 +1,23 @@
+---
+pubDatetime: 2022-09-07T15:22:00Z
+title: Bài viết trên Instagram ngày 25 tháng 06 năm 2019
+description: nhavantuonglai là cá nhân chuyên viết lách, chia sẻ và hướng dẫn mọi người thuần thục hơn khi thực hành viết lách mỗi ngày qua những bài chia sẻ ngắn trên Instagram chính thức.
+featured: false
+draft: false
+tags:
+  - viet lach
+  - doan van
+  - instagram
+---
+
+mình đã gặp Hoàng Tử Bé trên hành trình.
+
+sau cuộc gặp với anh đồng hương ngắn ngủi, thoảng qua như chút mộng mị đơn thuần, mình được bù đắp bằng cuộc gặp khác – thú vị và vô cùng đáng nhớ, đó là Hoàng Tử Bé.
+
+lên Đèo Cả, mình chạy giữa lưng chừng thì thấy đôi quán nước ở dọc đường, chạy quá rồi mới hay cũng nên lúc dừng lại. nhưng phải dừng xe, chạy ngược đèo giữa những khúc cong là điều mình không sẵn sàng thực hiện.
+
+chính vì thế, khi nhắm được quán nước ở phía xa xa, mình bật xi nhan rồi từng chút mà chạy sang bên kia đường, dừng lại tìm chút hơi mà nghỉ ngơi. quán nước lúc ấy chẳng có ai hết, ngoài đôi anh chị là vợ chồng kia, đang trong chuyến đi chơi và giờ là ngược lại về nhà. cách trò chuyện của anh chị với nhau, cách anh tạo niềm vui cho đứa trẻ đi cùng, trông thật hạnh phúc và ngập tràn yêu thương.
+
+anh chỉ dẫn mình đi vào nhà, lấy đá và nước ra để uống, có vẻ như anh quen với quán này từ lâu lắm. bởi dáng vẻ và điệu bộ vô cùng tự tin khi chỉ dẫn, và biết những chỗ cất đồ để hướng dẫn cho mình. chọn nước và lấy đá xong, mình thong thả ra ngồi hóng mát.
+
+anh chị lại bắt chuyện và tụi mình kể với nhau về hành trình dẫn đến cuộc gặp gỡ này. trước lúc rời đi, anh đưa mình tấm danh thiếp, ở trên đó là Le Petit Prince – Hoàng Tử Bé. mình mỉm cười vì sự tình cờ đầy thú vị, khi đây cũng là cuốn truyện mình yêu thích, và một chút nào đó, đồng hành cùng mình trong một khoảng thời gian dài…

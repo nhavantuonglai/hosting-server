@@ -1,0 +1,451 @@
+{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_d77eac45c7d1ed80b30fa3b7459de31f>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\log\\*.json\"",
+	"sec" : 1701609992,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 154371000
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\config.json\"",
+	"sec" : 1701609992,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 154371000
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_d77eac45c7d1ed80b30fa3b7459de31f>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=10485760, cursize=33514, maxfiles=100, numfiles=3), exiting",
+	"sec" : 1701609992,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 155378300
+}{
+	"file" : "..\\..\\src\\command\\command.cpp",
+	"func" : "cmd::init_builtin_commands",
+	"line" : 80,
+	"message" : "Populating command map",
+	"sec" : 1701609992,
+	"section" : "command/init",
+	"severity" : 4,
+	"usec" : 160361000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Hotkey",
+	"line" : 91,
+	"message" : "Generating hotkeys.",
+	"sec" : 1701609992,
+	"section" : "hotkey/init",
+	"severity" : 4,
+	"usec" : 161358100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\hotkey.json\"",
+	"sec" : 1701609992,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 161358100
+}{
+	"file" : "..\\..\\libaegisub\\common\\mru.cpp",
+	"func" : "agi::MRUManager::MRUManager",
+	"line" : 67,
+	"message" : "Loading MRU List",
+	"sec" : 1701609992,
+	"section" : "agi/mru",
+	"severity" : 4,
+	"usec" : 171536900
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\mru.json\"",
+	"sec" : 1701609992,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 171536900
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Raster: FreeType 2.5.3",
+	"sec" : 1701609992,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 181504300
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Shaper: FriBidi 0.19.6 (SIMPLE)",
+	"sec" : 1701609992,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 182505000
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Initialized",
+	"sec" : 1701609992,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 182505000
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "No usable fontconfig configuration file found, using fallback.",
+	"sec" : 1701609992,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 182505000
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 100,
+	"message" : "Entering FrameMain constructor",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 473588300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 111,
+	"message" : "Initializing context controls",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 473588300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 118,
+	"message" : "Initializing context frames",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 473588300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 122,
+	"message" : "Apply saved Maximized state",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 473588300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 125,
+	"message" : "Initialize toolbar",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 473588300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 130,
+	"message" : "Initialize menu bar",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 671978700
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 133,
+	"message" : "Create status bar",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 698198900
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 136,
+	"message" : "Set icon",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 702191900
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 145,
+	"message" : "Create views and inner main window controls",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 703187800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 187,
+	"message" : "Create background panel",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 703187800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 190,
+	"message" : "Create subtitles grid",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 703187800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 193,
+	"message" : "Create video box",
+	"sec" : 1701609992,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 713293900
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 196,
+	"message" : "Create audio box",
+	"sec" : 1701609993,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 142134800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 199,
+	"message" : "Create subtitle editing box",
+	"sec" : 1701609993,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 219109200
+}{
+	"file" : "..\\..\\src\\spellchecker_hunspell.cpp",
+	"func" : "HunspellSpellChecker::OnLanguageChanged",
+	"line" : 197,
+	"message" : "\"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\dictionaries\\en_US.dic\"",
+	"sec" : 1701609993,
+	"section" : "dictionary/file",
+	"severity" : 3,
+	"usec" : 304533900
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\dictionaries\\user_en_US.dic\"",
+	"sec" : 1701609993,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 366981900
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 202,
+	"message" : "Arrange main sizers",
+	"sec" : 1701609993,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 422109800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 215,
+	"message" : "Perform layout",
+	"sec" : 1701609993,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 423164100
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 217,
+	"message" : "Leaving InitContents",
+	"sec" : 1701609993,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 423164100
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 149,
+	"message" : "Set up drag/drop target",
+	"sec" : 1701609993,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 424165500
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 152,
+	"message" : "Load default file",
+	"sec" : 1701609993,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 424165500
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 155,
+	"message" : "Display main window",
+	"sec" : 1701609993,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 443359700
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 160,
+	"message" : "Leaving FrameMain constructor",
+	"sec" : 1701609993,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 608960100
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_d77eac45c7d1ed80b30fa3b7459de31f>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\autosave\\*.AUTOSAVE.ass\"",
+	"sec" : 1701609993,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 609988200
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_d77eac45c7d1ed80b30fa3b7459de31f>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=104857600, cursize=238615, maxfiles=1000, numfiles=2), exiting",
+	"sec" : 1701609993,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 610993600
+}{
+	"file" : "..\\..\\src\\charset_detect.cpp",
+	"func" : "CharSetDetect::GetEncoding",
+	"line" : 62,
+	"message" : "\"D:\\OneDrive - Rawfulness\\rawfulness cinematic\\filmcine\\[2012] the dark knight rises.srt\" (UTF-8)",
+	"sec" : 1701609999,
+	"section" : "charset/file",
+	"severity" : 3,
+	"usec" : 604726800
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"D:\\OneDrive - Rawfulness\\rawfulness cinematic\\filmcine\\[2012] the dark knight rises.srt\"",
+	"sec" : 1701609999,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 604726800
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"D:\\OneDrive - Rawfulness\\rawfulness cinematic\\filmcine\\[2012] the dark knight rises.srt\"",
+	"sec" : 1701609999,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 606905600
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\mru.json\"",
+	"sec" : 1701609999,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 632261900
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\shift_history.json\"",
+	"sec" : 1701610002,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 204604300
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\shift_history.json\"",
+	"sec" : 1701610026,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 347244400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"D:\\OneDrive - Rawfulness\\rawfulness cinematic\\filmcine\\[2012] the dark knight rises.srt\"",
+	"sec" : 1701610040,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 667174600
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\autosave\\[2012] the dark knight rises.srt.2023-12-03-20-27-32.AUTOSAVE.ass\"",
+	"sec" : 1701610052,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 463515600
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"E:\\OneDrive\\rawfulness system\\article-portable\\portable-subtitles\\config.json\"",
+	"sec" : 1701610163,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 111979700
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1701610163,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 123806100
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1701610163,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 123806100
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1701610163,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 124310900
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1701610163,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 124310900
+}

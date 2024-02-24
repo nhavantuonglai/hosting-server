@@ -1,0 +1,550 @@
+------------  -------------------------------------------------------------------------------------
+[2015-03-15]  REL: VERSION 2.69 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2015-03-14]  FIX: field names were not always sorted when displayed in the extended tag dialog (since v2.67).
+[2015-03-14]  FIX: directory names containing a dot had only the part till the dot in %_directory% (since v2.67).
+------------  -------------------------------------------------------------------------------------
+[2015-03-06]  REL: VERSION 2.68 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2015-03-01]  FIX: runtime errors caused by internal changes from v2.67
+------------  -------------------------------------------------------------------------------------
+[2015-02-28]  REL: VERSION 2.67 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2015-02-28]  FIX: Discogs images were not retrieved for releases with only one version where the release selection dialog was skipped.
+[2015-02-27]  CHG: extended number of actions possibly displayed in actions popup-menu to 500.
+[2015-02-25]  CHG: updated Discogs image caching proxy (required by Discogs API change from 2015-02-20).
+[2015-02-25]  CHG: removed authentication via OAuth when requesting images from Discogs (required by Discogs API change from 2015-02-20).
+------------  -------------------------------------------------------------------------------------
+[2014-12-13]  REL: VERSION 2.66 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-12-13]  NEW: added support for complex JSON object values by web sources framework functions 'json_select_object' and 'json_unselect_object'.
+[2014-12-12]  NEW: added support for boolean values in web sources framework function 'json_select'.
+[2014-12-11]  FIX: MP4 cdec field for encoder settings was not preserved when writing tags.
+[2014-12-11]  CHG: added support for mouse wheel scrolling in tag panel.
+[2014-12-10]  CHG: added context-specific detection of mouse-wheel usage to prevent accidentally overwriting the field contents.
+[2014-12-10]  FIX: updated RATING MM to use latest mapping of values. 
+[2014-12-10]  FIX: removing filter from filter history did not reset filter and file list.
+[2014-12-06]  FIX: field RELEASETIME was missing after resetting the tag fields list.
+[2014-12-06]  FIX: adding cover art did not conform to the description in the documentation (select file dialog was showing the current working directory instead of the file's directory in case no default directory was provided).
+[2014-12-06]  FIX: documentation of action 'Remove duplicate fields' did not mention that the first value is retained.
+[2014-12-06]  NEW: added scripting function $strcmp to compare strings case-sensitively.
+[2014-12-06]  NEW: added scripting function $stricmp to compare strings case-insensitively.
+[2014-12-06]  FIX: documentation of scripting function $eql did not mention that strings are compared case insensitive. 
+[2014-12-06]  FIX: scripting function $eql was not working correctly if strings contained umlauts or diacritic characters.
+------------  -------------------------------------------------------------------------------------
+[2014-10-26]  REL: VERSION 2.65a (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-10-26]  FIX: Discogs web source now uses %20 as word separator (using + gave HTTP 401 Unauthorized in some cases).
+------------  -------------------------------------------------------------------------------------
+[2014-10-18]  REL: VERSION 2.65 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-10-03]  CHG: added Discogs image caching through dedicated caching server.
+[2014-10-02]  FIX: web sources framework function 'ifnot' did not work for empty parameter in some cases.
+[2014-09-24]  CHG: web sources framework function 'json_select_array' does not create error result in case parameter does not refer to an array.  
+------------  -------------------------------------------------------------------------------------
+[2014-09-20]  REL: VERSION 2.64 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-09-17]  CHG: Discogs web source rewritten based on Discogs JSON API.
+[2014-09-17]  NEW: added JSON-related functions to web sources framework (json_foreach, json_foreach_end, json_select, json_select_array, json_select_many).
+[2014-08-24]  LNG: updated Italian language file.
+------------  -------------------------------------------------------------------------------------
+[2014-08-23]  REL: VERSION 2.63 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-08-21]  FIX: runtime error when closing Mp3tag on computers with older CPUs (e.g, Pentium III, Athlon XP, ...).
+[2014-08-21]  FIX: runtime error when performing 'File > Save configuration ...' on computers with older CPUs (e.g, Pentium III, Athlon XP, ...).
+[2014-08-10]  LNG: updated French language file.
+------------  -------------------------------------------------------------------------------------
+[2014-08-10]  REL: VERSION 2.62 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-08-10]  LNG: updated Bulgarian, Czech, Hungarian, and Korean language files.
+[2014-07-14]  FIX: search requests to Discogs were not URL encoded anymore (since v2.61b).
+[2014-07-14]  FIX: authentication via OAuth 1.0a for Discogs tag sources was not triggered in all cases (since v2.61b).
+[2014-07-13]  NEW: added authentication via OAuth 1.0a for Discogs tag sources.
+[2014-07-13]  NEW: added scripting function $list(x,y,z) to official documented scripting functions.
+[2014-07-12]  LNG: replaced Romanian language file by new translation from Andrei-Felix Areanu.
+[2014-07-12]  FIX: runtime error when file name resulting from performing actions was one of the reserved device file names CON, PRN, AUX, NUL, COM1-9, or LPT1-9.
+------------  -------------------------------------------------------------------------------------
+[2014-07-05]  REL: VERSION 2.61a (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-07-05]  FIX: regression that configuration could not be saved anymore (since v2.61).
+[2014-07-05]  LNG: updated Hebrew language file.
+------------  -------------------------------------------------------------------------------------
+[2014-07-04]  REL: VERSION 2.61 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-07-03]  FIX: issue on some systems when selection in file list has been changed (e.g., by invert selection, or click on selected files - since v2.59b). 
+[2014-07-03]  FIX: runtime error when closing Mp3tag if Mp3tagSettings.zip was locked or user had no write permission.
+[2014-06-28]  FIX: duplicate message in preview of converter 'Text-file - Tag' for previous file in case no matching file entry was found in text file.
+[2014-06-28]  FIX: file dialog at converter 'Text-file - Tag' now does not ask for creation of files anymore.
+[2014-06-28]  FIX: removing files from file list occasionally resulted in runtime error (since v2.59b).
+[2014-06-24]  FIX: tab order in various dialogs was wrong.
+------------  -------------------------------------------------------------------------------------
+[2014-06-21]  REL: VERSION 2.60 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-06-20]  FIX: Tag field mapping in help file now states that YEAR is written to TYER in ID3v2.3
+[2014-06-18]  FIX: Filtered file list displayed wrong files after moving files in file list (since v2.59b).
+[2014-06-13]  CHG: Rewrote huge parts of the internal code base to use standard container libraries and algorithms.
+[2014-06-12]  CHG: updated Discogs web source. 
+[2014-05-25]  FIX: occasional runtime error while performing undo of renaming of files.
+------------  -------------------------------------------------------------------------------------
+[2014-04-20]  REL: VERSION 2.59a (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-04-20]  FIX: fixed repainting issue at menu buttons for removing format strings from histories at converter 'Filename - Filename' (since v2.59).
+------------  -------------------------------------------------------------------------------------
+[2014-04-20]  REL: VERSION 2.59 (for Windows XP/2003/Vista/2008/7/8/8.1)
+------------  -------------------------------------------------------------------------------------
+[2014-04-20]  NEW: added taskbar progress indicator on Windows 7 and above when performing potentially long-running tasks.
+[2014-04-19]  NEW: added support for Direct Stream Digital Audio DSF files.
+[2014-04-19]  FIX: content rating tag field ITUNESADVISORY was not displayed if set to 0 (None).
+[2014-04-19]  CHG: updated help file with changed possible values for ITUNESADVISORY tag field.
+[2014-04-18]  FIX: improved performance when displaying actions menu.
+[2014-04-18]  NEW: menu for removing format strings from history at converter 'Filename - Filename'.
+[2014-04-16]  FIX: enabling/disabling filter via 'View > Filter...' or F3 while in editing mode could write data to wrong file.
+[2014-04-13]  LNG: updated Bulgarian, Catalan and Russian translations.
+[2014-04-13]  FIX: ID3v2.3 TDAT was read to DATE when reading but not stored as TDAT when writing.
+[2014-04-13]  FIX: filtering for field HAS " " was also matching files without blanks. 
+[2014-04-13]  FIX: export field parameter at $loop() was compared case-insensitive which caused unexpected behavior at duplicate detection.
+------------  -------------------------------------------------------------------------------------
+[2013-10-06]  REL: VERSION 2.58 (for Windows XP/2003/Vista/2008/7/8)
+------------  -------------------------------------------------------------------------------------
+[2013-10-06]  CHG: improved parsing performance when reading MP4 files.
+[2013-10-06]  FIX: occasionally skipped last value for multi-value ID3v2 text fields.
+[2013-10-06]  CHG: reverted change: ID3v2.3 TYER/TDAT now merged into one YEAR field formatted as YYYY-MM-DD (due to popular request).
+[2013-10-05]  LNG: updated Czech, Finnish, Hebrew, and Spanish translations.
+[2013-10-05]  FIX: added workaround for broken MP4 implementations that are writing empty cnID atoms.
+[2013-10-04]  FIX: added workaround for broken MP4 implementations that are writing invalid atom sizes.
+[2013-08-15]  NEW: added support for setting cover description for multiple different covers at once.
+------------  -------------------------------------------------------------------------------------
+[2013-07-06]  REL: VERSION 2.57 (for Windows XP/2003/Vista/2008/7/8)
+------------  -------------------------------------------------------------------------------------
+[2013-07-06]  CHG: Added *.m3u8 to playlist save dialog filter.
+[2013-07-03]  FIX: runtime error during undoing move operation after renaming last file in list.
+[2013-07-02]  LNG: changed syntax for placeholders in language files.
+[2013-06-29]  FIX: runtime error due to wrong use of placeholders in some translations.
+------------  -------------------------------------------------------------------------------------
+[2013-06-22]  REL: VERSION 2.56 (for Windows XP/2003/Vista/2008/7/8)
+------------  -------------------------------------------------------------------------------------
+[2013-06-22]  LNG: updated Danish, French, Hebrew, Russian, Slovenian and Turkish translations.
+[2013-06-21]  CHG: updated TAK library to TAK 2.3.0.
+[2013-06-21]  FIX: Performing update check occasionally resulted in runtime error.
+[2013-06-09]  FIX: Changing option to show only user-defined genres had no effect until restarting Mp3tag.
+[2013-06-09]  FIX: Undo after removing first file from list had no effect.
+[2013-06-08]  LNG: Lithuanian language file.
+------------  -------------------------------------------------------------------------------------
+[2013-04-24]  REL: VERSION 2.55a (for Windows XP/2003/Vista/2008/7/8)
+------------  -------------------------------------------------------------------------------------
+[2013-04-22]  FIX: Mp3tag v2.55 did not work on computers with older CPUs anymore (e.g, Pentium III, Athlon XP, ...).
+------------  -------------------------------------------------------------------------------------
+[2013-04-20]  REL: VERSION 2.55 (for Windows XP/2003/Vista/2008/7/8)
+------------  -------------------------------------------------------------------------------------
+[2013-04-10]  FIX: unicode characters encoded in \x{####} format gave runtime exception in web sources (e.g., Amazon.de).
+[2013-04-07]  NEW: added support for *.opus files for Explorer context menu shell extension.
+[2013-04-04]  CHG: added special handling for iTunMOVI field name for MP4.
+[2013-04-04]  FIX: preview at converter 'Tag - Tag' displayed 0 for %_counter% instead of 1.
+[2013-04-03]  FIX: after deleting files the list jumps to the beginning.
+[2013-04-03]  FIX: after moving files the list jumps to the beginning.
+[2013-04-01]  CHG: updated MusicBrainz web source to version 1.06.
+[2013-04-01]  FIX: temporary file was not removed when writing tags to Opus files (since v2.54a)
+[2013-04-01]  NEW: added support for the IETF Opus codec (http://opus-codec.org/)
+[2013-03-17]  CHG: improved compatibility with Windows 8.
+------------  -------------------------------------------------------------------------------------
+[2012-12-22]  REL: VERSION 2.54 (for Windows XP/2003/Vista/2008/7/8)
+------------  -------------------------------------------------------------------------------------
+[2012-12-21]  NEW: added official support for Windows 8.
+[2012-12-10]  FIX: large decimal-encoded characters in HTML (e.g., &nnnnn;) where not translated in web sources.
+[2012-11-29]  FIX: menu button at filter was drawn incorrectly.
+[2012-11-28]  FIX: after removing files under Windows XP the list jumps to the beginning.
+[2012-11-26]  FIX: short path names where displayed when loaded from specific NAS devices in some cases (since v2.53).
+[2012-11-20]  LNG: Macedonian language file.
+[2012-11-20]  FIX: installation in silent mode ignored language from Mp3tagSetup.ini.
+------------  -------------------------------------------------------------------------------------
+[2012-10-24]  REL: VERSION 2.53 (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2012-10-23]  CHG: updated code-signing certificate.
+[2012-10-06]  CHG: drag and drop of cover art from other applications now uses original image without re-encoding whenever possible.
+[2012-10-01]  CHG: Explorer context menu extension is now included in default installation.
+[2012-09-29]  CHG: ID3v2.3 TYER/TDAT now merged into one YEAR field formatted as YYYY-MM-DD.
+[2012-09-26]  FIX: files and folders added from command line were displayed with upper/lower case from command line.
+[2012-09-26]  FIX: file names added from playlists were displayed with upper/lower case from playlist.
+[2012-09-25]  NEW: added support for drag and drop of cover art from Google Chrome.
+------------  -------------------------------------------------------------------------------------
+[2012-07-19]  REL: VERSION 2.52 (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2012-07-19]  NEW: added option to specify default directory for cover art.
+[2012-07-19]  NEW: added preferences page for directories used in Mp3tag.
+------------  -------------------------------------------------------------------------------------
+[2012-05-16]  REL: VERSION 2.51 (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2012-05-14]  NEW: added support for %_counter% and %_total_files% for format string at action 'Import cover from file'.
+[2012-05-13]  NEW: added option to specify cover type at action 'Import cover from file'.
+[2012-05-06]  CHG: added extended support for HTTP 302 cases (redirect) at web sources.
+[2012-05-04]  CHG: add cover now defaults to the last used cover directory if the is no cover art in the file's directory.
+[2012-05-04]  CHG: next file is now focused after removing files from file list.
+[2012-04-07]  FIX: regression regarding output of multi-valued tag fields for discogs web sources since v2.49b.
+------------  -------------------------------------------------------------------------------------
+[2012-03-11]  REL: VERSION 2.50 (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2012-03-09]  NEW: converter 'Tag - Tag' via menu 'Converter', toolbar and Alt+5 keyboard shortcut.
+[2012-03-09]  CHG: changed keyboard shortcut for actions to Alt+6 and Alt+Shift+6.
+[2012-03-02]  NEW: added $verticalBar() for masking vertical bar symbol in web sources.
+[2012-02-28]  FIX: truncated separator string that occurred in sayregexp result.
+[2012-02-23]  NEW: support for writing of UTF-8 encoded playlists using *.m3u8 as file extension.
+[2012-02-22]  FIX: regression regarding sorting filtered file lists since v2.49b.
+[2012-02-21]  FIX: converter 'Filename - Tag' did not work for field names containing dots.
+------------  -------------------------------------------------------------------------------------
+[2012-01-16]  REL: VERSION 2.49b (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2012-01-13]  FIX: cpil atoms (compilation at MP4) set to 0x00 were not displayed.
+[2012-01-13]  CHG: updated Discogs web source.
+[2012-01-13]  NEW: added support for Discogs API v2.0.
+[2011-11-14]  FIX: sort arrow was incorrectly shown after randomizing file list. 
+------------  -------------------------------------------------------------------------------------
+[2011-11-14]  REL: VERSION 2.49a (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2011-11-09]  CHG: updated Amazon web sources.
+[2011-11-09]  CHG: updated MusicBrainz web source.
+[2011-09-19]  FIX: 'No' button at 'Remove all from history' menu item was ignored.
+------------  -------------------------------------------------------------------------------------
+[2011-06-01]  REL: VERSION 2.49 (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2011-05-18]  NEW: added new field UserAgent for web sources which enables sending Mp3tag/#.## as user agent if set to 1.
+[2011-05-19]  CHG: updated MusicBrainz web source.
+[2011-05-15]  NEW: added %rate% for MP4 file
+[2011-05-15]  NEW: added %keywords% for MP4 files.
+[2011-05-15]  NEW: added support for preserving unknown MP4 atoms when writing tags.
+[2011-05-04]  NEW: added cover-specific %_cover_type% at action Export cover to file.
+[2011-05-04]  FIX: action Export cover to file duplicated file extension for multiple covers. 
+[2011-04-18]  NEW: support for inbuilt parameters MP3TAGAPP and MP3TAGAPPDATA for $getEnv.
+[2011-04-18]  CHG: replaced discogs web source by web source based on discogs web service.
+[2011-04-07]  CHG: updated discogs web source.
+[2011-04-03]  NEW: added support for wildcards in format string of action Import cover from file.
+[2011-04-03]  NEW: added support for wildcards in format string of action Import text file.
+[2011-04-03]  NEW: added %rating winamp% for MP3 files.
+[2011-03-26]  FIX: possible runtime error when creating new actions.
+[2011-03-25]  NEW: added %itunesaccount% and %itunespurchasedate% for MP4 files.
+[2011-03-22]  FIX: $rand was only seeded once per session.
+[2011-03-22]  FIX: $ifLonger did not work as documented.
+[2011-03-21]  NEW: added %_video_height%, %_video_width%, and %_video_bitrate% for MP4 video files.
+[2011-03-21]  NEW: scripting function $getEnv.
+[2011-03-21]  NEW: support for Unicode encoded web sources scripts.
+[2011-03-21]  FIX: runtime error at converter preview with empty format string.
+[2011-03-20]  CHG: removed action type 'Shorten filenames to 64 characters'. 
+------------  -------------------------------------------------------------------------------------
+[2011-01-23]  REL: VERSION 2.48 (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2011-01-23]  CHG: improved Amazon query handling.
+[2011-01-22]  CHG: updated Amazon Web Sources.
+[2011-01-18]  FIX: wildcard matcher for filter expressions occasionally produced runtime errors.
+[2010-12-26]  FIX: click on helper menu for removing individual tag fields resulted in runtime error at action 'Merge duplicate fields'.
+[2010-12-06]  FIX: history at converter 'Text file - Tag' had problems with special characters.
+------------  -------------------------------------------------------------------------------------
+[2010-11-28]  REL: VERSION 2.47b (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2010-11-28]  NEW: helper menu for removing individual tag fields, removing all tag fields, and resetting the tag fields list at tag field selection lists.
+[2010-11-28]  NEW: menu item for removing all items from history at format string selection lists.
+[2010-11-27]  FIX: applying changes to M4V files gave file cannot be written error message.
+------------  -------------------------------------------------------------------------------------
+[2010-11-19]  REL: VERSION 2.47a (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2010-11-19]  FIX: tag field renamings from v2.47 were not applied for some users.
+------------  -------------------------------------------------------------------------------------
+[2010-11-19]  REL: VERSION 2.47 (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2010-11-11]  NEW: scripting functions $trimLeft, $trimRight, $cutLeft and $cutRight.
+[2010-11-10]  CHG: menu item 'Actions' moved from 'Converter' to own top-level menu with action groups as menu items.
+[2010-11-08]  FIX: scripting function $IfLonger did not always return the correct result.
+[2010-11-08]  FIX: some tag fields were renamed incorrectly with v2.46d.
+[2010-10-26]  CHG: updated discogs web source.
+[2010-10-23]  CHG: handling of Amazon web sources to allow for web sources that do not rely on AWS.
+[2010-10-13]  CHG: renamed field name BAND to ALBUMARTIST
+[2010-10-13]  CHG: renamed field name ALBUMSORTORDER to ALBUMSORT
+[2010-10-13]  CHG: renamed field name ARTISTSORTORDER to ARTISTSORT
+[2010-10-13]  CHG: renamed field name BANDSORTORDER to ALBUMARTISTSORT
+[2010-10-13]  CHG: renamed field name COMPOSERSORTORDER to COMPOSERSORT
+[2010-10-13]  CHG: renamed field name TITLESORTORDER to TITLESORT
+[2010-10-13]  CHG: renamed field name TVSHOWSORTORDER to TVSHOWSORT
+[2010-10-13]  CHG: renamed field name ITUNESCOMPILATION to COMPILATION
+[2010-10-13]  CHG: renamed field name ITUNESPODCAST to PODCAST
+[2010-10-13]  CHG: renamed field name ITUNESPODCASTCATEGORY to PODCASTCATEGORY
+[2010-10-13]  CHG: renamed field name ITUNESPODCASTDESC to PODCASTDESC
+[2010-10-13]  CHG: renamed field name ITUNESPODCASTID to PODCASTID
+[2010-10-13]  CHG: renamed field name ITUNESPODCASTURL to PODCASTURL
+[2010-10-10]  CHG: improved splash screen response time.
+[2010-10-04]  NEW: added support for iTunes U at ITUNESMEDIATYPE MP4 field.
+[2010-09-25]  FIX: ID3v2 WXXX frames with empty description were not read.
+[2010-09-24]  NEW: MP4 fields ITUNESCATALOGID and ITUNESHDVIDEO. 
+[2010-09-21]  FIX: dragging columns after resizing restored previous column width.
+[2010-09-21]  CHG: file extensions is now omitted when using _FILENAME or _ALL at all action types except 'Replace with regular expression'. 
+[2010-09-07]  FIX: fixed possible runtime error when displaying the extended tag dialog (since v2.46b).
+[2010-08-30]  NEW: added M4V to supported file extensions.
+[2010-08-22]  NEW: added German help file (many thanks to dano!).
+[2010-08-22]  FIX: filter IS and HAS did not handle umlauts in uppercase correctly.
+[2010-08-17]  CHG: updated MusicBrainz tag source.
+[2010-08-14]  CHG: updated discogs tag source.
+[2010-08-08]  CHG: added workaround for an issue when displaying the extended tag dialog under Wine 1.3.
+[2010-08-02]  NEW: added support for setting cover type for multiple different covers at once.
+[2010-04-22]  FIX: closing filter window when in floating state did not reset file view.
+[2010-04-22]  FIX: moving file where file already exists in target resulted in duplicate entries in file list.
+[2010-04-22]  NEW: edit user-defined tool dialog is resizable now.
+[2010-04-22]  CHG: file path of the currently selected file now displayed at caption of extended tag dialog.
+[2010-04-18]  NEW: file list columns can now be rearranged via drag'n'drop.
+[2010-04-18]  CHG: minor changes in default genre list.
+[2010-04-17]  FIX: replace did not work in web source scripts if replacement was part of sequence to be found.
+[2010-04-10]  FIX: deadlock on files with malformed ID3v2 tags.
+[2010-04-09]  FIX: undesired behaviour when renaming _DIRECTORY through action 'Format value' with a format string resulting in an empty value.
+[2010-04-09]  CHG: DATE is not automatically mapped to ID3v2.4 TDRC frame anymore.
+[2010-04-04]  CHG: updated discogs web source.
+[2010-04-03]  CHG: changed format of %_replaygain_track_gain% and %_replaygain_album_gain% for Musepack to difference values.
+------------  -------------------------------------------------------------------------------------
+[2010-03-20]  REL: VERSION 2.46a (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2010-03-19]  CHG: updated zlib.
+[2010-03-19]  CHG: obsolete dockbar data was not removed from Windows Registry.
+[2010-03-16]  FIX: MP4 atom disc was written in a way that caused specific programs (e.g., Android) to not read the tag.
+[2010-03-16]  FIX: occasional runtime error while reading tags.
+------------  -------------------------------------------------------------------------------------
+[2010-03-13]  REL: VERSION 2.46 (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2010-03-13]  FIX: iTunes-specific field Encoding Params was not preserved.
+[2010-03-10]  FIX: saving tags to files on some NAS drives occasionally did not work.
+[2010-03-10]  FIX: blanks before extension part in file names were automatically removed at Replace actions for _FILENAME.
+[2010-03-09]  CHG: multiple Source fields mapped to same Target field are now merged if they have the same values.
+[2010-03-09]  NEW: added dedicated help page for User-defined Field Mappings.
+[2010-03-04]  FIX: first file deleted from filter results returned to list on filter refresh.
+[2010-03-04]  FIX: omitted slash character when used at user-defined field mappings.
+[2010-03-01]  FIX: focus not moved to file list when closing Tag Panel.
+[2010-02-28]  FIX: update notification also reported beta versions when using latest stable release (since v2.45a).
+[2010-02-27]  FIX: keyboard shortcuts for tools Ctrl+1 to Ctrl+0 did not work anymore (since v2.45c).
+[2010-02-27]  NEW: Shift key modifier option at 'Remove from history' menu items that empties history.
+[2010-02-27]  FIX: shell extension did not resolve symbolic links.
+[2010-02-26]  CHG: improved copy and paste of tags to multiple files.
+[2010-02-22]  CHG: performance improvements for MATCHES keyword when filtering using regular expressions.
+[2010-02-21]  FIX: $validate removed colons in directory part of parameter instead of using replacement character.
+[2010-02-10]  NEW: added Ctrl+Space keyboard shortcut for displaying format string helper menu.
+[2010-02-10]  FIX: runtime error when clicking the actions drop-down menu after deleting all action groups.
+[2010-02-10]  FIX: tag field mappings did not work for APEv2 tagged files.
+[2010-02-07]  FIX: shell extension did not load directories with dots in their names.
+[2010-02-07]  NEW: support for %_md5audio% for FLAC files.
+[2010-02-06]  CHG: dockbar information now always stored in configuration file.
+[2010-01-30]  NEW: Explorer context menu entry now realised via dedicated shell extension.
+[2010-01-21]  FIX: placeholder %_md5audio% now only available for audio formats tagged with ID3 and/or APE tags.
+[2010-01-21]  FIX: placeholder %_counter% was not available at action 'Export cover to file'.
+[2010-01-11]  NEW: placeholder %_tool% for TAK now contains used TAK encoder version.
+[2010-01-11]  CHG: extended profile information displayed in %_vbr% for TAK files.
+[2010-01-08]  CHG: updated TAK decoder library tak_deco_lib.dll to TAK 2.0.0.
+[2009-12-24]  CHG: user-defined fields are not truncated to 255 characters in MP4 anymore.
+[2009-12-24]  CHG: now displays technical information of the first audio track in MP4 (instead of the first track).
+[2009-12-20]  FIX: menu 'Edit, Select all files' only worked if file list had focus.
+[2009-12-20]  FIX: sort indicator in file view was not reset if playlists were loaded or files were added.
+[2009-12-20]  FIX: removing files from filter result caused files that do not match the filter expression to be displayed.
+[2009-12-13]  CHG: COPYRIGHT field now maps to MP4 cprt atom.
+[2009-12-13]  NEW: added field PRESENT keyword to filter for files that contain a specific field in their tags.
+[2009-12-09]  NEW: support for reordering files via drag and drop at Tag Sources dialog.
+[2009-12-07]  CHG: adjusted MP4 mediatype mappings to reflect changes in iTunes 9.
+[2009-12-04]  CHG: SUBTITLE at MP4 now contains what previously was ITUNESPODCASTDESC which now contains the long description.
+[2009-12-04]  FIX: workaround for MP4 files with unconventional avcC atoms.
+[2009-12-02]  CHG: updated discogs web source.
+[2009-12-02]  FIX: runtime error when sorting files after filtering with an invalid filter expression.
+[2009-11-29]  CHG: file extension is now not selected when renaming files in file list.
+[2009-11-29]  CHG: Tag Sources selection dialog now remembers its selection state and sorting of search results.
+------------  -------------------------------------------------------------------------------------
+[2009-11-27]  REL: VERSION 2.45a (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2009-11-25]  FIX: some MP4 parsers had problems with additional 0x00 at hdlr atom name. 
+[2009-11-24]  FIX: internal error when last used sorting column was greater than the total number of enabled columns.
+------------  -------------------------------------------------------------------------------------
+[2009-11-21]  REL: VERSION 2.45 (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2009-11-18]  FIX: internal selection state was not reset when loading files via drag and drop (since v2.44a).
+[2009-11-15]  LNG: Swedish translation reworked by Matthias Stasiak.
+[2009-11-08]  CHG: removed built-in field mapping from WRITER to COMPOSER at MP4.
+[2009-11-07]  NEW: hex-encoded HTML entities are now also translated in Tag Sources.
+[2009-11-07]  FIX: moving files from one directory to another via drag'n'drop resulted in unresponsive program (since v2.44a).
+[2009-11-05]  FIX: query strings containing equal or ampersand signs did not work with Amazon Tag Source.
+[2009-11-05]  FIX: undo remove or write tag operations sometimes refreshed wrong files in file view (since v2.44a).
+[2009-11-01]  FIX: sorting filtered results displayed files that were not matched by the filter expression.
+[2009-11-01]  CHG: trailing pipe symbol in fields filled by Tag Sources are now removed.
+[2009-10-31]  NEW: installer and program now digitally signed.
+[2009-10-29]  FIX: numerical ID3v2 frames TLEN, TBPM and TDAT were always written in Unicode instead of ISO-8859-1.
+[2009-10-27]  CHG: changed %_total% to be empty if there is no total number of tracks stored in the track field.
+[2009-10-24]  NEW: added support for multiline fields (for e.g., Lyrics) in Tag Panel.
+[2009-10-23]  FIX: lines in M3U playlists consisting of blanks only resulted in the M3U's directory being loaded.
+[2009-10-23]  CHG: multiple values of fields in Tag Panel are now also listed in drop-down fields
+[2009-10-23]  FIX: applying actions on _FILENAME did not always remove invalid characters.
+[2009-10-23]  FIX: tag panel was not updated after removing files from file list (since v2.44a)
+[2009-10-18]  FIX: dropping directories from optical drives was always interpreted as add directory regardless of Ctrl-key state.
+[2009-10-18]  FIX: action Case Conversion (Sentence) and $caps3 gave different results.
+[2009-10-17]  FIX: importing covers via Web Sources occasionally resulted in erroneous mimetype containing charset descriptions.
+[2009-10-17]  NEW: added MATCHES keyword to filter using regular expressions. 
+[2009-10-17]  FIX: dropping cover art to extended tag dialog stopped working (since v2.44).
+[2009-10-12]  CHG: empty fields from web source are no longer listed in tag sources dialog.
+[2009-10-12]  FIX: query strings containing question marks did not work with Amazon Tag Source.
+[2009-10-01]  FIX: drag'n'drop of non-audio files resulted in blank line in file view (since v2.44a).
+[2009-10-01]  FIX: selection was not preserved when sorting in file view (since v2.44a).
+[2009-09-26]  FIX: spaces in quoted filter strings were ignored.
+[2009-09-26]  FIX: occasional runtime error on Export (since v2.44a).
+[2009-09-26]  FIX: selection state did not update after filtering (since v2.44a).
+[2009-09-26]  FIX: selecting multiple files via Shift+Arrow keys did not set <keep> to fields with different content in Tag Panel (since v2.44a).
+[2009-09-25]  FIX: saving tags when using arrow keys/single mouse click did not work anymore (since v2.44a).
+[2009-09-25]  FIX: selecting multiple files did not set <keep> to fields with different content in Tag Panel (since v2.44a).
+[2009-09-25]  FIX: fixed $loop(%field%) still limited after $loop(%field%,n) at export.
+[2009-09-23]  NEW: support for user-defined field name mappings.
+[2009-09-23]  CHG: updated MusicBrainz web source.
+[2009-09-18]  FIX: occasional runtime error when writing tags to malformed FLAC files.
+[2009-09-18]  CHG: improved status reporting when files are added via drag and drop.
+[2009-09-18]  NEW: added *.flc (used for FLAC in some programs) to list of supported file extensions.
+[2009-09-16]  CHG: converter 'Text file - Tag' now runs in separate thread with progress dialog.
+[2009-09-13]  FIX: fixed resizing issue at convert dialogs.
+[2009-09-08]  CHG: addressed performance issues when reading OGG files with large metadata values.
+[2009-09-07]  NEW: filter now supports filter expressions.
+[2009-09-07]  CHG: filtering is now done in separate thread. 
+[2009-09-03]  FIX: occasional runtime error when removing tags from Ogg Vorbis files.
+[2009-09-02]  NEW: added support for preserving mp3HD correction data.
+[2009-09-01]  FIX: fixed lost focus after editing via the extended tags dialog.
+[2009-08-31]  FIX: occasional runtime error when canceling writing operations.
+[2009-08-21]  CHG: filter now enabled by default.
+[2009-08-21]  CHG: changed appearance of lists to themed style under Vista and above.
+[2009-08-15]  CHG: removed German help files.
+[2009-08-15]  CHG: removed Quick Launch Shortcut installer option for Windows 7 and above.
+------------  -------------------------------------------------------------------------------------
+[2009-08-14]  REL: VERSION 2.44 (for Windows XP/2003/Vista/2008/7)
+------------  -------------------------------------------------------------------------------------
+[2009-08-14]  NEW: added MusicBrainz Web Source.
+[2009-08-14]  NEW: added Cover-only Amazon Web Sources.
+[2009-08-14]  NEW: added F2 keyboard shortcut for editing in Tag Sources dialog.
+[2009-08-14]  FIX: fixed UI glitches when editing long titles at Tag Sources dialog.
+[2009-08-14]  NEW: Windows 7 now officially supported.
+[2009-08-13]  CHG: changelog now English-only.
+[2009-08-12]  FIX: fixed problem with entering certain polish characters where AltGr (right Alt) key was involved.
+[2009-08-12]  CHG: improvements for keyboard navigation at extended tags dialog.
+[2009-08-12]  FIX: action Case Conversion on Vorbis Comments field names did not take Date, Year, and Organization into account.
+[2009-08-11]  CHG: added reporting of ID3v2 parsing errors as !BAD ID3v2 in tag field.
+[2009-08-11]  FIX: pasting a non-existent directory to the directory switcher resulted in a phantom file.
+[2009-08-10]  CHG: added Amazon API signing.
+[2009-08-10]  CHG: added *.jpeg to supported file extensions for displaying cover art from directories.
+[2009-08-10]  FIX: fixed wrong splitting of artist names containing slash characters for freedb web search. 
+[2009-07-19]  CHG: workaround for Firefox 3.5 dragged images always reported as BMP files.
+[2009-07-19]  FIX: possible runtime error with Ogg Vorbis cover art.
+[2009-07-19]  FIX: action 'Export cover to file' stopped working (since v2.43b).
+[2009-07-19]  FIX: command-line parameter /fp on non-existent directory loads all tracks of upper directory.
+[2009-07-11]  CHG: updated used TAK SDK to version 1.1.1.
+[2009-07-11]  FIX: fields greater than 255 characters were not truncated in MP4 tags.
+[2009-07-11]  NEW: support for cover art for Ogg Vorbis files. 
+[2009-07-11]  FIX: random runtime error when starting Mp3tag with multiple files from the Explorer context menu.
+[2009-07-04]  CHG: increased number of possible user-defined tools.
+[2009-07-04]  FIX: pressing 'Cancel' on write-protected files did not cancel to complete tag-writing process but only skipped the protected file.
+[2009-07-04]  CHG: unlocalised strings now defaulting to English.
+[2009-07-04]  FIX: minor fixes regarding file path canonicalization and validation.
+[2009-06-30]  FIX: removing fields by writing empty values was not possible anymore (since 2.43a).
+[2009-06-28]  NEW: support for Musepack SV8.
+[2009-06-26]  CHG: updated internal value mapping for MediaMonkey rating field RATING MM to address changes in MM 3.1.
+[2009-06-19]  FIX: occasional runtime error while parsing ill-formed UFID frames in ID3v2 tags.
+[2009-06-07]  FIX: scripting functions used at 'Replace with' of action 'Replace with regular expressions' were not evaluated anymore (since v2.43).
+[2009-06-06]  FIX: action 'Merge duplicate fields' merged all fields instead of only given one.
+[2009-06-06]  CHG: action 'Merge duplicate fields' now also takes _ALL as field name to merge all fields.
+[2009-06-05]  FIX: overflow with negative values as second parameter for $num scripting function.
+[2009-06-05]  FIX: action 'Convert codepage' did not work in some cases.
+[2009-05-12]  NEW: multiple-valued fields can now also be created via 'Format value' actions (values separated by \\).
+[2009-05-11]  NEW: field %_cover_type% containing cover type of first embedded cover art. 
+[2009-05-11]  FIX: adding cover art via drag and drop was not possible anymore after modifying tag panel fields via 'Options > Tag Panel'.
+[2009-05-11]  NEW: multiple-valued fields can now also be created via direct editing in the file view (values separated by \\).
+[2009-05-10]  FIX: updated discogs.com web source.
+[2009-05-09]  CHG: preventing accidentally hiding of columns in the file view.
+[2009-04-30]  FIX: internal changes to prevent runtime errors on invalid file paths.
+[2009-04-10]  NEW: option 'Correct aspect ratio' at right-click menu of cover art window.
+[2009-04-08]  FIX: previous installation directory was not remembered by the installation program.
+------------  -------------------------------------------------------------------------------------
+[2009-03-28]  REL: VERSION 2.43 (for Windows XP/2003/Vista/2008)
+------------  -------------------------------------------------------------------------------------
+[2009-03-26]  CHG: Ctrl+A in Tag Panel edit fields now selects all text.
+[2009-03-26]  NEW: added support for ALAC (Apple Lossless Audio Codec) information fields (bitrate, codec, ...).
+[2009-03-18]  LNG: Hebrew language file.
+[2009-03-10]  CHG: renamed PERFORMERSORTORDER to ARTISTSORTORDER.
+[2009-03-10]  FIX: action 'Format value' with $regexp resulted in duplication of existing dollar signs in value.
+[2009-03-09]  FIX: text in Tag Panel fields was always selected if panel was resized.
+[2009-03-08]  NEW: added functions SayNextNumber, SayNextWord, SayNewline, SayRegexp und Unspace for Web Sources Framework.
+[2009-03-08]  CHG: Genre field at 'Options > Tag Panel > Default values' now editable.
+[2009-03-03]  FIX: aspect ratio was not kept when displaying cover art that exceeded the size of the cover art window.
+[2009-02-28]  CHG: internal undo buffer gets reset when changing directories now.
+[2009-02-28]  NEW: keyboard shortcuts Ctrl+Tab and Shift+Ctrl+Tab for fast navigation between sub-windows.
+[2009-02-26]  FIX: overflow at total size in status bar for large archives.
+[2009-02-11]  CHG: improved performance at creating local freedb indexes.
+[2009-02-11]  CHG: year field now accepts input longer than 4 characters.
+[2009-02-08]  NEW: added mappings for WM/AlbumSortOrder, WM/ArtistSortOrder, and WM/TitleSortOrder for WMA tags.
+[2009-02-08]  NEW: more size-efficient layout of Tag Panel in horizontal mode.
+[2009-02-08]  NEW: option to hide the directory switcher from the Tag Panel.
+[2009-02-03]  LNG: Danish language file.
+[2009-01-30]  FIX: fixed several issues with handling multiple values for WMA tag fields.
+[2009-01-13]  NEW: notification dialog if files referenced in a playlist cannot be read.
+[2008-12-31]  NEW: support for %_total_files% in SearchBy part of Web Sources.
+[2008-12-30]  FIX: minor UI glitch with line cursor at Tag Sources menu.
+[2008-12-30]  CHG: extended list of default columns for initial installations.
+[2008-12-30]  CHG: extended fields Album Artist, Composer, and Discnumber are now displayed in Tag Panel (see 'Options > Tag Panel' for configuration).
+[2008-12-30]  FIX: preview at 'Text file - Tag' ignored blank lines.
+[2008-12-30]  FIX: TVEPISODE and TVSEASON set by iTunes were not read.
+[2008-12-24]  FIX: some genres from the extended list of ID3v1 genres were not allowed as standard genres in MP4 tags.
+[2008-12-24]  LNG: Ukrainian language file.
+[2008-12-28]  LNG: Vietnamese language file.
+[2008-12-12]  CHG: consistently removing empty tag fields when saving tags now.
+[2008-12-05]  FIX: column presets were not included in backup via 'File > Save configuration'.
+[2008-12-05]  CHG: column presets are now stored in %APPDATA%\Mp3tag\data\columns.
+[2008-11-30]  FIX: improved error handling for 0 bytes sized files.
+[2008-11-24]  FIX: improved error handling for broken APIC frames. 
+[2008-11-22]  NEW: option to check for updates on program startup.
+[2008-11-22]  NEW: function sayuntilml for web sources framework.
+[2008-11-16]  FIX: runtime error while trying to read empty ID3v2 UFID frames.
+[2008-11-09]  CHG: updated discogs tag source.
+[2008-11-06]  FIX: lost keyboard focus after removing last cover via extended tag dialog.
+------------  -------------------------------------------------------------------------------------
+[2008-10-25]  REL: VERSION 2.42 (for Windows XP/2003/Vista/2008)
+------------  -------------------------------------------------------------------------------------
+[2008-10-14]  LNG: Belarusian language file.
+[2008-10-14]  FIX: calculation of bitrate at APE files ignored APEv2 tag size.
+[2008-10-14]  FIX: cancel option at Tag Sources was ignored when asking whether existing cover in directory should be overwritten.
+[2008-09-26]  FIX: undo rename overwrote tag of current visible files in some rare error cases.
+[2008-09-21]  NEW: MP4 fields ITUNESMEDIATYPE, TVEPISODEID, TVNETWORK, TVSEASON and TVEPISODE.
+[2008-09-17]  FIX: runtime error when undoing operations for files where file name contained percent character.
+[2008-09-13]  CHG: SHOW and SHOWSORTORDER MP4 tags renamed to TVSHOW and TVSHOWSORTORDER.
+[2008-09-13]  CHG: memory consumption improvements for large music libraries with cover art.
+[2008-08-12]  NEW: action type 'Split fields by separator'
+[2008-08-11]  NEW: tag sources dialogs now with Back buttons.
+[2008-08-06]  FIX: changing cover to 'Back cover' was ignored at MP4s with Nero Digital tags.
+[2008-08-02]  FIX: binary ID3v2 UFID frames were not read and preserved correctly.
+[2008-08-02]  FIX: fixed wrong button state at column configuration dialogue.  
+[2008-07-30]  NEW: support for drag'n'drop of cover art from Mp3tag.
+[2008-07-26]  NEW: support for padding in Ogg Vorbis files to improve tag writing performance.
+[2008-07-25]  CHG: removing and deleting of files now separated into different menu items.
+[2008-07-24]  FIX: possible crash caused by ill-formatted action files.
+[2008-07-16]  CHG: installer information is now stored at HKLM or HKCU in Windows Registry based on user privileges.
+[2008-07-06]  FIX: minor issues with displaying of error messages.
+[2008-07-05]  NEW: type and description of cover art can now also be set via the Tag Sources dialog.
+[2008-07-02]  NEW: support for Ogg Vorbis files with OGA file extension.
+[2008-07-02]  FIX: drag'n'drop of cover art from Firefox 3 did not work.
+[2008-05-30]  FIX: installer ignored different user-defined startmenu folder.
+[2008-05-30]  FIX: 'Edit > Undo' was not activated in all cases.
+[2008-05-30]  FIX: fixed possible deadlock situation at action 'Remove fields except'.
+[2008-05-28]  FIX: playcounter of ID3v2 POPM frame was written to the wrong byte.
+[2008-05-27]  NEW: context menu for cover-related functions now also available at the extended tags dialog.
+[2008-05-18]  NEW: scripting functions $meta(x), $meta(x,n), and $meta_sep(x,sep).
+[2008-05-18]  CHG: fields with multiple matching values are now displayed individually at the extended tags dialog also for multiple files. 
+[2008-05-17]  FIX: progress bar showed wrong status in some cases when reading multiple directories from Explorer.
+[2008-05-17]  FIX: runtime error under Windows Vista at accessing MP3 files that have been moved outside of Mp3tag. 
+[2008-05-17]  FIX: horizontal scrollbar wasn't displayed after changing columns on some systems.
+[2008-05-17]  NEW: description of cover art can now be changed via the context menu of the cover art display in the main view.
+[2008-05-17]  NEW: type of cover art can now be changed via the context menu of the cover art display in the main view.
+[2008-05-17]  NEW: type of cover art is now displayed in the main view.
+[2008-05-17]  CHG: open and save dialogs are resizeable now.
+[2008-05-10]  FIX: arrow symbol for helper menu at 'Tag - Filename' was not displayed on some systems.
+[2008-05-06]  CHG: handling of Ctrl+A in edit fields to select all text.
+[2008-05-06]  CHG: linebreaks in multi-line edit fields now via Ctrl+Return.
+[2008-05-04]  NEW: added _FOLDERPATH filtering option.
+[2008-05-04]  CHG: filtering by _PATH uses the complete file path now.
+[2008-05-04]  FIX: deleting files with Ctrl+Del sometimes only removed them from the file list.
+[2008-05-01]  FIX: some actions created empty tag fields if applied to non-existing tag fields with the same name.
+[2008-05-01]  CHG: linebreaks in ID3v2 comments now CR LF (0x0D 0x0A) instead of 0x0A for compatibility reasons.
+[2008-04-22]  CHG: Mp3tag now ignores the tag alter preservation flag in ID3v2 frames.
+
+------------  -------------------------------------------------------------------------------------
+              NEW: new feature
+              CHG: change
+              FIX: bugfix
+------------  -------------------------------------------------------------------------------------

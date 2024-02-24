@@ -1,0 +1,1394 @@
+﻿1
+00:00:06,339 --> 00:00:09,300
+Mệt tới nỗi không thở nổi sao anh?
+
+2
+00:00:10,093 --> 00:00:14,681
+Không, anh ổn. Nếu ngày xưa, giáo viên
+thể dục nói chuyện này tốn nhiều sức thế…
+
+3
+00:00:14,848 --> 00:00:17,183
+thì anh đã tập luyện chăm chỉ hơn.
+
+4
+00:00:19,144 --> 00:00:22,313
+Tập hoặc không tập, không có thử thiếc gì hết.
+
+5
+00:00:25,066 --> 00:00:27,360
+Em vừa trích thoại trong <i>Star Wars</i> à?
+
+6
+00:00:28,820 --> 00:00:32,157
+{\an8}Em tin là đã trích từ
+phần <i>Đế Chế Phản Công</i>.
+
+7
+00:00:34,659 --> 00:00:36,453
+{\an8}Ôi Chúa ơi.
+
+8
+00:00:36,619 --> 00:00:40,165
+{\an8}Anh đang nằm cùng một cô gái
+vừa xinh đẹp vừa biết dẫn thoại của Yoda.
+
+9
+00:00:46,296 --> 00:00:48,506
+Anh yêu em, Penny.
+
+10
+00:00:57,682 --> 00:00:59,851
+Cảm ơn anh.
+
+11
+00:01:02,395 --> 00:01:03,563
+Không có gì.
+
+12
+00:01:05,607 --> 00:01:08,318
+– Anh chỉ muốn thổ lộ nỗi lòng thôi.
+– Ồ, phải. Không…
+
+13
+00:01:08,485 --> 00:01:10,278
+– em rất vui.
+– Ừ… tốt quá.
+
+14
+00:01:10,487 --> 00:01:11,738
+– Tốt. Em vui là được.
+– Ừ.
+
+15
+00:01:14,199 --> 00:01:15,617
+Không phải…
+
+16
+00:01:18,119 --> 00:01:20,121
+Vậy…
+
+17
+00:01:20,580 --> 00:01:23,458
+– Giờ cũng trễ rồi, ta nên đi ngủ thôi.
+– Ừ.
+
+18
+00:01:23,541 --> 00:01:25,376
+– Được rồi.
+– Ừ, hẳn rồi.
+
+19
+00:01:25,502 --> 00:01:28,213
+– Được. Ngủ ngon, anh yêu.
+– Ngủ ngon.
+
+20
+00:02:00,245 --> 00:02:04,457
+Này, Leonard, cậu nghĩ
+kiến khổng lồ có tồn tại không?
+
+21
+00:02:05,750 --> 00:02:08,753
+Sheldon nói là không thể,
+còn tôi và Howard không chỉ phản đối…
+
+22
+00:02:08,920 --> 00:02:12,382
+mà còn nghĩ chúng sẽ là
+phương tiện di chuyển ngầu hơn cả Xe dơi.
+
+23
+00:02:13,258 --> 00:02:15,301
+Các cậu quên mất định luật khối lập phương.
+
+24
+00:02:15,468 --> 00:02:18,805
+{\an8}Kiến khổng lồ sẽ bị nghiền nát dưới
+trọng lượng của khung xương trợ lực.
+
+25
+00:02:18,972 --> 00:02:22,475
+{\an8}Nói cho chính xác, bảng xếp hạng
+những phương tiện ngầu nhất phải là…
+
+26
+00:02:22,642 --> 00:02:27,605
+{\an8}bộ phản lực, xe điện tự cân bằng,
+thiết bị vận tải, Xe dơi rồi mới tới kiến khổng lồ.
+
+27
+00:02:28,898 --> 00:02:31,693
+Nói thật, các cậu hết việc để làm rồi à…
+
+28
+00:02:31,901 --> 00:02:35,321
+mà ngồi đó bàn về
+tính khả thi của kiến khổng lồ?
+
+29
+00:02:36,156 --> 00:02:38,783
+{\an8}– Cậu ta sao vậy?
+– Chắc đang tới giai đoạn nhạy cảm…
+
+30
+00:02:38,950 --> 00:02:40,493
+{\an8}trong chu kỳ hàng tháng.
+
+31
+00:02:42,787 --> 00:02:46,499
+{\an8}Ý cậu là cậu ta tới kỳ kinh nguyệt?
+
+32
+00:02:47,500 --> 00:02:49,627
+{\an8}Không hẳn như vậy.
+
+33
+00:02:49,794 --> 00:02:51,838
+{\an8}Nhưng vào thế kỷ 17…
+
+34
+00:02:52,005 --> 00:02:55,425
+{\an8}các nhà khoa học đã phát hiện ra sự
+tăng giảm hoóc môn nam giới trong 33 ngày.
+
+35
+00:02:55,842 --> 00:02:57,176
+{\an8}Thú vị thật.
+
+36
+00:02:57,343 --> 00:03:00,763
+{\an8}Hèn gì tôi lại hay khóc nhè vào giữa tháng.
+
+37
+00:03:03,016 --> 00:03:04,517
+Các cậu hiểu ý tôi mà.
+
+38
+00:03:09,564 --> 00:03:11,774
+{\an8}Được rồi, quên kiến khổng lồ đi.
+
+39
+00:03:11,983 --> 00:03:13,943
+Thỏ khổng lồ thì sao?
+
+40
+00:03:15,236 --> 00:03:17,030
+{\an8}Tôi ghét lũ thỏ, dù to hay nhỏ.
+
+41
+00:03:17,196 --> 00:03:20,867
+{\an8}Trông chúng lúc nào
+cũng như định nói gì đó rồi lại thôi.
+
+42
+00:03:21,326 --> 00:03:24,537
+{\an8}Hệ hô hấp của thỏ có thể
+đáp ứng được kích thước khổng lồ.
+
+43
+00:03:24,704 --> 00:03:27,206
+{\an8}Hơn nữa, chúng là một
+trong số ít những loài có vú…
+
+44
+00:03:27,373 --> 00:03:30,293
+{\an8}có âm nang ở trước dương vật.
+
+45
+00:03:33,046 --> 00:03:35,465
+{\an8}Chắc đấy là điều chúng muốn nói.
+
+46
+00:03:36,382 --> 00:03:40,220
+Leonard, cậu thấy sao về
+thỏ khổng lồ và vị trí âm nang của chúng?
+
+47
+00:03:41,387 --> 00:03:43,014
+Tôi chẳng quan tâm.
+
+48
+00:03:43,181 --> 00:03:46,267
+Thật sao? Mỗi lần ta nói về
+vùng kín kì lạ của động vật…
+
+49
+00:03:46,476 --> 00:03:49,729
+cậu luôn là người đưa ra những
+quan điểm mạnh mẽ và trái chiều mà.
+
+50
+00:03:51,731 --> 00:03:54,108
+Kệ xác các cậu, tôi cóc thèm quan tâm.
+
+51
+00:03:54,317 --> 00:03:57,070
+"Cóc" khổng lồ mới đúng chứ?
+
+52
+00:03:57,904 --> 00:04:00,782
+Thật ra, cóc khổng lồ hoàn toàn khả thi.
+
+53
+00:04:00,990 --> 00:04:02,909
+Nói chuyện khác đi, được không?
+
+54
+00:04:03,076 --> 00:04:06,412
+Chuyện gì đó liên quan tới
+cuộc sống trên hành tinh này ấy.
+
+55
+00:04:06,746 --> 00:04:12,377
+Được rồi, chuyển qua chủ đề: "Sao
+Leonard lại biến thành tên khốn khổng lồ" nhé?
+
+56
+00:04:13,544 --> 00:04:16,381
+Lũ khốn khổng lồ cũng có thể lắm chứ.
+
+57
+00:04:16,798 --> 00:04:19,759
+Tất nhiên, là Leonard chứ ai.
+
+58
+00:04:21,135 --> 00:04:24,555
+– Chắc cậu ấy lại cãi nhau với Penny.
+– Không. Không cãi vã gì hết.
+
+59
+00:04:24,764 --> 00:04:28,226
+– Ồ, nhưng chắc chắn đã có chuyện gì đó.
+– Tôi không muốn nói.
+
+60
+00:04:28,434 --> 00:04:32,021
+Nhưng tôi biết cậu sẽ nói và
+tôi không muốn nghe. Vậy nên xin phép.
+
+61
+00:04:33,231 --> 00:04:34,399
+Cậu đã làm gì, Romeo?
+
+62
+00:04:34,565 --> 00:04:36,734
+Đổ sirô phong khắp cơ thể…
+
+63
+00:04:36,901 --> 00:04:39,862
+rồi rủ cô ấy chơi bài hả?
+
+64
+00:04:44,284 --> 00:04:47,412
+Hay cậu nghĩ sẽ vui hơn nếu mặc
+quần lót của Penny rồi nhảy lò cò…
+
+65
+00:04:47,578 --> 00:04:49,872
+nhưng cuối cùng lại dọa cô ấy hết hồn?
+
+66
+00:04:51,082 --> 00:04:54,836
+– Gì cơ? Không.
+– Tôi chỉ hỏi vậy thôi, anh bạn.
+
+67
+00:04:55,044 --> 00:04:56,629
+Có vẻ là vậy rồi.
+
+68
+00:04:58,798 --> 00:05:00,717
+Tối nay, mấy anh vẫn đến chơi bowling chứ?
+
+69
+00:05:00,925 --> 00:05:05,138
+Ồ, tất nhiên. Thật ra, tôi đã chuẩn bị
+mấy câu gáy bẩn cho tối nay rồi.
+
+70
+00:05:05,305 --> 00:05:07,557
+Anh ném bóng như má anh vậy.
+
+71
+00:05:08,808 --> 00:05:12,061
+Trừ phi mẹ anh ném giỏi. Nếu vậy,
+anh ném chẳng giống bà ấy gì cả.
+
+72
+00:05:16,316 --> 00:05:19,986
+Gáy như thế mới gọi là "cháy chết má anh đi."
+
+73
+00:05:21,279 --> 00:05:24,282
+– Vậy cậu bảo cô ấy đi cạo lông hả?
+– Không.
+
+74
+00:05:24,490 --> 00:05:27,410
+– Hay là cậu cạo lông?
+– Không.
+
+75
+00:05:28,119 --> 00:05:30,997
+Có khi nào lúc mây mưa,
+cậu vô tình tét vào mông mình…
+
+76
+00:05:31,164 --> 00:05:33,124
+rồi bật khóc gọi "Mẹ ơi"?
+
+77
+00:05:40,506 --> 00:05:42,300
+Tôi đi chỗ khác đây.
+
+78
+00:05:43,843 --> 00:05:47,346
+– Cậu ấy không phản đối.
+– Ừ. Vậy là gần đúng rồi.
+
+79
+00:05:49,348 --> 00:05:52,226
+Hay cậu uống thuốc dị ứng
+rồi ngủ quên trong lúc hành sự?
+
+80
+00:05:52,393 --> 00:05:54,812
+Vì nếu thế thật, cậu có thể chết đấy.
+
+81
+00:05:56,147 --> 00:05:57,857
+Ồ, chết như vậy thì còn gì bằng.
+
+82
+00:06:00,359 --> 00:06:02,487
+– Chào.
+– Ồ, chào em.
+
+83
+00:06:02,695 --> 00:06:05,448
+Tốt, Penny. Đừng quên
+trận bowling lúc 7:00 tối nay.
+
+84
+00:06:05,656 --> 00:06:07,533
+Ồ, phải rồi. Bowling.
+
+85
+00:06:07,742 --> 00:06:09,702
+Nếu em không thích thì không cần đi đâu.
+
+86
+00:06:09,911 --> 00:06:13,790
+Không, không sao. Ý em là,
+thừa nhận đi, không có em mấy anh thua chắc.
+
+87
+00:06:13,998 --> 00:06:16,209
+Chuẩn rồi. Trong tình huống đặc biệt này,
+
+88
+00:06:16,375 --> 00:06:19,295
+sự thiếu nữ tính của cậu
+chính là lợi thế của ta.
+
+89
+00:06:20,922 --> 00:06:24,133
+Ừ. Nói chuyện với cậu vui thật đó, Sheldon.
+
+90
+00:06:25,218 --> 00:06:28,930
+– Cậu mỉa mai tôi?
+– Khinh bỉ lộ liễu thì đúng hơn.
+
+91
+00:06:29,764 --> 00:06:32,058
+– Nhớ 7:00 đấy.
+– Biết rồi.
+
+92
+00:06:32,225 --> 00:06:34,644
+– Múi giờ Ban ngày Thái Bình Dương.
+– Biến đi.
+
+93
+00:06:35,895 --> 00:06:38,231
+Hãy để dành sự nam tính đó cho tối nay.
+
+94
+00:06:45,905 --> 00:06:48,783
+Tôi tưởng cậu tự mang giày bowling tới.
+
+95
+00:06:48,908 --> 00:06:51,410
+Thì đây là giày bowling của tôi mà.
+
+96
+00:06:51,828 --> 00:06:53,538
+Vậy cậu xịt chất khử trùng làm gì?
+
+97
+00:06:53,746 --> 00:06:56,082
+Tôi biết chân tôi xỏ vào đâu.
+
+98
+00:07:00,545 --> 00:07:01,921
+Chào Penny.
+
+99
+00:07:02,255 --> 00:07:03,339
+Và các anh.
+
+100
+00:07:05,216 --> 00:07:08,094
+Albino Bob không tới được,
+nên tôi rủ người khác đi cùng.
+
+101
+00:07:08,261 --> 00:07:12,223
+Mấy anh cũng biết người này, Wil Wheaton.
+
+102
+00:07:15,143 --> 00:07:16,686
+Chào Sheldon. Anh khỏe chứ?
+
+103
+00:07:16,894 --> 00:07:20,940
+Ái chà chà, đây chẳng phải là Wil Wheaton.
+
+104
+00:07:21,107 --> 00:07:23,443
+Gã Yêu tinh Xanh
+đối đầu với Người Nhện của tôi.
+
+105
+00:07:23,609 --> 00:07:25,903
+Giáo hoàng Pope V với Galileo.
+
+106
+00:07:26,070 --> 00:07:29,198
+Trình duyệt Internet Explorer với Firefox.
+
+107
+00:07:29,824 --> 00:07:33,619
+Anh vẫn ôm hận vì thua tôi
+trong trận đấu bài lần trước hả?
+
+108
+00:07:33,786 --> 00:07:36,497
+Tôi là chủ nhân vĩ đại của các tên miền…
+
+109
+00:07:36,706 --> 00:07:38,958
+WilWheatonkhốnnạn.com/.net/.org.
+Anh thấy sao?
+
+110
+00:07:39,167 --> 00:07:42,587
+Tôi thấy mình đang được
+sống miễn phí ngay đây.
+
+111
+00:07:43,963 --> 00:07:46,466
+– Sẵn sàng chơi chưa?
+– Ồ, tất nhiên.
+
+112
+00:07:46,632 --> 00:07:49,469
+Không biết Stuart đã nói gì với anh chưa…
+
+113
+00:07:49,635 --> 00:07:53,473
+nhưng anh đang đối đầu với
+đồng đội trưởng của đội vô địch giải…
+
+114
+00:07:53,639 --> 00:07:56,392
+Bowling Phước lành dành cho
+thiếu niên Cơ đốc giáo Đông Texas.
+
+115
+00:07:57,727 --> 00:07:59,937
+Lứa tuổi từ 7-12.
+
+116
+00:08:00,313 --> 00:08:02,148
+Còn nữa, Penny cũng rất giỏi.
+
+117
+00:08:05,109 --> 00:08:07,987
+Tuyệt. Vậy bắt đầu đi.
+
+118
+00:08:09,030 --> 00:08:11,365
+Wil Wheaton ngu ngốc.
+
+119
+00:08:11,532 --> 00:08:13,868
+Anh không thắng nổi đâu.
+
+120
+00:08:16,621 --> 00:08:17,872
+Thế chứ!
+
+121
+00:08:18,080 --> 00:08:19,832
+Quá thường.
+
+122
+00:08:19,999 --> 00:08:23,461
+Nhìn Hoa hậu thật sự của hội thi bowling đây.
+
+123
+00:08:23,836 --> 00:08:26,964
+Trước khi anh lên Twitter nổ về
+thành tích khiêm tốn của mình…
+
+124
+00:08:27,173 --> 00:08:29,467
+thì nhìn cách tôi ném đây này.
+
+125
+00:08:29,675 --> 00:08:32,053
+Ta và bóng là một.
+
+126
+00:08:33,513 --> 00:08:35,640
+Tư tưởng hợp nhất.
+
+127
+00:08:35,806 --> 00:08:38,184
+Lỗ của ngươi là lỗ của ta.
+
+128
+00:08:47,235 --> 00:08:48,945
+Tuyệt.
+
+129
+00:08:49,153 --> 00:08:50,279
+Hót nữa đi, chim non.
+
+130
+00:08:53,032 --> 00:08:55,826
+– Tôi chỉ muốn nói tôi rất hâm mộ anh.
+– Ồ. cảm ơn.
+
+131
+00:08:55,993 --> 00:08:58,871
+Chắc anh chán mấy câu hỏi
+về<i> Star Trek</i> lắm rồi…
+
+132
+00:08:59,038 --> 00:09:01,249
+nhưng anh từng tán Whoopi Golberg chưa?
+
+133
+00:09:06,879 --> 00:09:08,047
+Bia.
+
+134
+00:09:08,214 --> 00:09:10,675
+Liều thuốc thần giúp anh chàng Ấn Độ
+
+135
+00:09:10,758 --> 00:09:14,011
+nhút nhát, tội nghiệp này
+hòa mình vào bữa tiệc.
+
+136
+00:09:18,558 --> 00:09:20,226
+Ồ, thế chứ.
+
+137
+00:09:22,562 --> 00:09:25,940
+– Khoai tây chiên phô mai cay không?
+– Có. Em yêu món này lắm.
+
+138
+00:09:26,148 --> 00:09:28,693
+– Vậy à? Em yêu món này hả?
+– Vâng, sao?
+
+139
+00:09:28,901 --> 00:09:30,444
+Không sao. Anh chỉ thấy vui…
+
+140
+00:09:30,611 --> 00:09:33,239
+khi nghe em thoải mái nói yêu thứ gì đó.
+
+141
+00:09:35,408 --> 00:09:38,202
+– Anh muốn gây lộn bây giờ sao?
+– Gây lộn gì?
+
+142
+00:09:38,369 --> 00:09:40,538
+Em thích món này là chuyện bình thường.
+
+143
+00:09:40,705 --> 00:09:42,623
+Em đã ăn chúng rất lâu rồi.
+
+144
+00:09:42,832 --> 00:09:45,793
+Chúng làm em hạnh phúc.
+Chúng đáng được biết điều đó mà.
+
+145
+00:09:46,419 --> 00:09:50,381
+Được rồi, nghe này, đêm qua anh làm em
+bất ngờ quá, nên em không biết nói gì.
+
+146
+00:09:50,590 --> 00:09:53,509
+Giờ em đã có thời gian
+suy nghĩ rồi. Em muốn nói gì?
+
+147
+00:09:53,968 --> 00:09:56,762
+– Em không biết nữa.
+– Sao lại không biết?
+
+148
+00:09:56,971 --> 00:09:58,806
+– Chỗ này không thích hợp.
+– Không.
+
+149
+00:09:59,015 --> 00:10:02,101
+Hôm qua ở trên giường
+lúc anh nói, "anh yêu em"…
+
+150
+00:10:02,268 --> 00:10:04,562
+em cũng chỉ đáp lại, "Cảm ơn. Ngủ ngon."
+
+151
+00:10:05,271 --> 00:10:07,898
+– Đừng ép em, Leonard.
+– Anh không hề ép em.
+
+152
+00:10:08,024 --> 00:10:12,486
+Anh có. Và anh không có quyền
+quyết định lúc nào em nói "em yêu anh."
+
+153
+00:10:17,408 --> 00:10:20,244
+À, hóa ra có người nói câu
+"Anh yêu em" quá sớm.
+
+154
+00:10:20,953 --> 00:10:23,914
+Tôi lại nghĩ là chuyện
+xuất tinh sớm. Có tính không?
+
+155
+00:10:28,544 --> 00:10:30,171
+Penny.
+
+156
+00:10:30,630 --> 00:10:32,256
+Penny.
+
+157
+00:10:33,382 --> 00:10:34,967
+Penny.
+
+158
+00:10:36,552 --> 00:10:38,971
+– Gì?
+– Cho cậu này.
+
+159
+00:10:41,223 --> 00:10:43,976
+– Kem?
+– Tôi đang tập làm quen với…
+
+160
+00:10:44,143 --> 00:10:48,648
+khủng hoảng cảm xúc của phụ nữ
+bằng cách nghiên cứu truyện tranh "Cathy."
+
+161
+00:10:51,192 --> 00:10:54,987
+Khi cô ấy buồn, cô ấy hét lên rồi ăn kem.
+
+162
+00:11:03,287 --> 00:11:06,415
+Nếu cậu là mèo, tôi đã
+mang cho cậu món <i>lasagna.</i>
+
+163
+00:11:08,209 --> 00:11:10,086
+Leonard bảo cậu sang đây à?
+
+164
+00:11:10,294 --> 00:11:13,798
+Không. Bọn tôi vẫn chưa nói chuyện
+từ lúc cậu đột ngột bỏ về đêm qua…
+
+165
+00:11:13,964 --> 00:11:17,510
+khiến bọn tôi thua thảm hại
+Stuart và gã khốn, Wil Wheaton.
+
+166
+00:11:18,344 --> 00:11:19,637
+Ừ, tôi xin lỗi.
+
+167
+00:11:19,845 --> 00:11:23,099
+Phải muối mặt thừa nhận
+là đêm qua tôi đã khóc thầm.
+
+168
+00:11:23,974 --> 00:11:25,768
+– Rồi, tôi xin lỗi.
+– Nói cho cậu biết…
+
+169
+00:11:25,935 --> 00:11:27,436
+tôi không ngủ nổi…
+
+170
+00:11:27,603 --> 00:11:31,399
+vì Leonard ở kế bên cứ
+liên tục hát theo Alanis Morissette.
+
+171
+00:11:33,401 --> 00:11:34,652
+– Cậu đùa à?
+– Không.
+
+172
+00:11:34,860 --> 00:11:37,238
+Rõ ràng còn một cô gái khác cần ăn kem.
+
+173
+00:11:38,989 --> 00:11:41,617
+Tới đoạn khiến tôi thấy vui lên chưa?
+
+174
+00:11:41,826 --> 00:11:44,995
+Đây. Tôi đã sắp xếp một trận tái đấu…
+
+175
+00:11:45,162 --> 00:11:46,872
+với đội của Stuart tối nay.
+
+176
+00:11:47,081 --> 00:11:50,793
+Ôi, cưng à, tôi chịu thôi.
+Giờ tôi và Leonard đang chiến tranh lạnh.
+
+177
+00:11:51,293 --> 00:11:54,713
+Muốn tôi đuổi Leonard không?
+Tôi là đội trưởng, tôi có quyền.
+
+178
+00:11:56,173 --> 00:11:59,969
+Không, không sao. Để tôi nói chuyện
+với anh ấy đã, rồi tôi sẽ trả lời cậu.
+
+179
+00:12:01,011 --> 00:12:05,015
+– Khi nào cậu định đi nói chuyện với cậu ta?
+– Chưa biết nữa.
+
+180
+00:12:05,224 --> 00:12:08,269
+Cậu ấy đang ở phòng giặt.
+Giờ là lúc thích hợp đấy.
+
+181
+00:12:08,519 --> 00:12:10,479
+Cậu sẽ bắt tôi đi bằng được đúng không?
+
+182
+00:12:10,688 --> 00:12:13,649
+Ồ, tôi nghĩ ta đều biết đáp án rồi.
+
+183
+00:12:20,072 --> 00:12:23,951
+– Em nghĩ ta cần nói chuyện.
+– Gì? Không, không cần đâu.
+
+184
+00:12:24,118 --> 00:12:26,996
+Ta không cần nói chuyện
+vì chẳng có gì để nói hết.
+
+185
+00:12:27,163 --> 00:12:29,540
+– Mọi thứ vẫn ổn.
+– Thật sao?
+
+186
+00:12:29,707 --> 00:12:31,041
+Vậy là anh không cáu…
+
+187
+00:12:31,208 --> 00:12:34,253
+khi em nói thích
+khoai tây chiên phô mai cay hả?
+
+188
+00:12:35,546 --> 00:12:37,840
+Được rồi, anh đã hơi quá đáng.
+
+189
+00:12:38,007 --> 00:12:40,843
+Chỉ là hai ta ở hai giai đoạn
+cảm xúc khác nhau thôi. Có gì đâu.
+
+190
+00:12:41,177 --> 00:12:43,888
+Và có lẽ anh đi nhanh hơn em
+một chút, nhưng cũng chẳng sao.
+
+191
+00:12:44,096 --> 00:12:46,432
+Thật ra, cũng đúng thôi, vì nói thật…
+
+192
+00:12:46,599 --> 00:12:49,435
+anh đã yêu em
+trước hai năm em yêu anh mà.
+
+193
+00:12:51,937 --> 00:12:55,024
+Nghe này, Leonard, anh phải
+biết là em rất quan tâm tới anh.
+
+194
+00:12:55,191 --> 00:12:58,110
+Chỉ là trước đây
+em toàn nói chữ "yêu" quá sớm…
+
+195
+00:12:58,277 --> 00:12:59,987
+và mọi chuyện đều hỏng bét.
+
+196
+00:13:00,404 --> 00:13:03,199
+Thật sao? Anh không hề biết chuyện đó.
+
+197
+00:13:03,908 --> 00:13:05,117
+Em xin lỗi.
+
+198
+00:13:05,284 --> 00:13:07,495
+– Anh hiểu ý em mà.
+– Ừ, anh hiểu.
+
+199
+00:13:08,954 --> 00:13:11,916
+– Vậy ta hòa nhé?
+– Ừ, đó chính là điều anh muốn nói với em.
+
+200
+00:13:12,082 --> 00:13:13,792
+Ta vẫn ổn, vẫn bình thường.
+
+201
+00:13:13,959 --> 00:13:17,254
+Được rồi, hóa giải hiểu lầm,
+chôn vùi mâu thuẫn.
+
+202
+00:13:17,421 --> 00:13:18,839
+Đi chơi bowling thôi.
+
+203
+00:13:20,758 --> 00:13:23,052
+Phải, tôi đã nghe lén,
+nhưng là do tình thế bắt buộc.
+
+204
+00:13:26,305 --> 00:13:28,015
+Chú ý đây, hỡi các tay ném…
+
+205
+00:13:28,182 --> 00:13:31,977
+{\an8}Tôi đã tự ý may
+đồng phục cho màn tái đấu của đội ta.
+
+206
+00:13:32,144 --> 00:13:33,604
+{\an8}NGHIỀN NÁT WESLEY
+
+207
+00:13:33,812 --> 00:13:36,398
+– Ái mộ Wesley?
+– Không, không phải ái mộ.
+
+208
+00:13:36,565 --> 00:13:38,734
+Mà là "Nghiền nát" Wesley.
+
+209
+00:13:39,151 --> 00:13:41,237
+– Tôi không hiểu.
+– Wesley Crusher…
+
+210
+00:13:41,445 --> 00:13:43,697
+là tên nhân vật của Wil Wheaton
+trong<i> Star Trek</i>.
+
+211
+00:13:43,864 --> 00:13:45,324
+Em vẫn chưa hiểu.
+
+212
+00:13:45,533 --> 00:13:47,576
+Đó là một cách chơi chữ cực kì thông minh.
+
+213
+00:13:47,743 --> 00:13:50,663
+Bằng cách lấy tên nhân vật
+của hắn rồi chia số nhiều…
+
+214
+00:13:50,829 --> 00:13:54,792
+để ám chỉ ta sẽ là những kẻ hủy diệt hắn.
+
+215
+00:13:56,210 --> 00:13:58,170
+Xin lỗi, nhưng Wesley Crushers…
+
+216
+00:13:58,337 --> 00:14:00,631
+nghe như hội những người
+ái mộ Wesley Crusher ấy.
+
+217
+00:14:00,839 --> 00:14:02,883
+Không, đây không phải Ái mộ Wesley.
+
+218
+00:14:03,050 --> 00:14:05,219
+Mà là "Nghiền nát" Wesley.
+
+219
+00:14:07,137 --> 00:14:10,099
+Nếu muốn nói cậu sẽ hủy diệt Wesley…
+
+220
+00:14:10,266 --> 00:14:12,226
+thì nên viết là "Wesley" Hủy diệt Hội.
+
+221
+00:14:12,434 --> 00:14:15,521
+Mấy cậu có nghe không đấy?
+Không phải Ái mộ Wesley.
+
+222
+00:14:15,688 --> 00:14:19,733
+Cũng không phải "Wesley" Hủy diệt Hội,
+mà là "Nghiền nát" Wesley.
+
+223
+00:14:19,900 --> 00:14:22,444
+Này, nhìn kìa. Họ lấy tên tôi làm tên đội.
+
+224
+00:14:23,863 --> 00:14:26,657
+Không, không phải…Đừng bận tâm.
+
+225
+00:14:29,243 --> 00:14:32,454
+Vậy là tất cả đều rõ về vụ cá cược
+và hậu quả rồi đúng không?
+
+226
+00:14:32,621 --> 00:14:33,706
+Ồ, tất nhiên.
+
+227
+00:14:33,873 --> 00:14:38,043
+Đội thua cuộc sẽ phải mặc
+trang phục mà đội thắng chọn ra đường.
+
+228
+00:14:38,252 --> 00:14:41,964
+Cho anh biết, tôi đã lên kế hoạch
+cho anh mặc bài nghiên cứu…
+
+229
+00:14:42,131 --> 00:14:45,342
+trình bày về các giả thuyết
+vô căn cứ của Belakovsky.
+
+230
+00:14:47,177 --> 00:14:48,679
+Sợ quá cơ.
+
+231
+00:14:50,890 --> 00:14:52,641
+Này, Sheldon.
+
+232
+00:14:53,017 --> 00:14:56,312
+Cho anh biết tôi đang rất
+mong đợi hạ anh đo ván đêm nay.
+
+233
+00:14:56,520 --> 00:15:00,524
+Ồ, vậy à? Trước khi trả lời,
+tôi muốn hỏi anh một câu.
+
+234
+00:15:01,525 --> 00:15:04,653
+Má anh chơi bowling có giỏi không?
+
+235
+00:15:11,076 --> 00:15:13,787
+– Xin mời.
+– Không, nhường anh đấy.
+
+236
+00:15:13,954 --> 00:15:18,375
+Vì hiện tại bọn này đang
+giã anh như cám, Wesley.
+
+237
+00:15:20,502 --> 00:15:23,839
+Theo thông lệ, người chơi
+làn bên phải sẽ ném trước.
+
+238
+00:15:26,008 --> 00:15:27,551
+Được rồi.
+
+239
+00:15:35,684 --> 00:15:37,269
+Thông lệ thôi, đâu phải luật lệ.
+
+240
+00:15:38,520 --> 00:15:40,648
+Tôi căm thù anh.
+
+241
+00:15:41,565 --> 00:15:44,860
+Đúng vậy, Sheldon.
+Tập làm quen với điều đó đi.
+
+242
+00:15:47,488 --> 00:15:50,699
+Câu đó còn chẳng có trong loạt phim của anh.
+
+243
+00:15:51,909 --> 00:15:55,788
+Tôi… chỉ muốn cô biết
+dù ta là đối thủ của nhau…
+
+244
+00:15:55,955 --> 00:15:58,540
+nhưng tôi không hề có ý xấu.
+
+245
+00:15:59,750 --> 00:16:02,378
+Cảm ơn anh, Stuart. Tôi rất vui.
+
+246
+00:16:02,586 --> 00:16:05,547
+Thật ra những người ở hai phe
+đối lập thường có mối quan hệ tốt.
+
+247
+00:16:05,756 --> 00:16:07,299
+Ví dụ, Romeo và Juliet…
+
+248
+00:16:07,508 --> 00:16:10,844
+Tony và Maria trong
+<i>Câu chuyện Miền Viễn tây.</i>
+
+249
+00:16:11,428 --> 00:16:14,598
+Gã vô danh và
+cô nàng xanh lè, đô con trong <i>Avatar</i>.
+
+250
+00:16:17,101 --> 00:16:19,103
+Tới lượt tôi rồi.
+
+251
+00:16:21,522 --> 00:16:22,982
+Nhập hồn vào trái banh đi, Howard.
+
+252
+00:16:23,524 --> 00:16:25,401
+Để tôi yên, Sheldon.
+
+253
+00:16:34,076 --> 00:16:35,452
+Cậu không phải trái banh.
+
+254
+00:16:38,580 --> 00:16:40,165
+Này, cảm ơn.
+
+255
+00:16:40,332 --> 00:16:42,084
+– Vui nhỉ?
+– Vâng.
+
+256
+00:16:42,251 --> 00:16:47,589
+Ra ngoài và vận động thế này cũng tốt.
+Quên muộn phiền. Nếu cứ ở lỳ trong nhà…
+
+257
+00:16:47,756 --> 00:16:51,135
+em sẽ bắt đầu suy nghĩ,
+phân tích, ám ảnh rồi lo lắng.
+
+258
+00:16:51,301 --> 00:16:54,722
+Đêm nay, ta không làm thế.
+Đêm nay, ta chỉ chơi bowling thôi.
+
+259
+00:16:54,930 --> 00:16:56,140
+Vâng, đúng vậy.
+
+260
+00:16:56,348 --> 00:16:59,393
+Rồi ngày nào đó, ai biết là
+khi nào, biết đâu em sẽ yêu anh.
+
+261
+00:17:02,354 --> 00:17:04,106
+Tới lượt anh.
+
+262
+00:17:06,025 --> 00:17:09,361
+Sheldon.
+
+263
+00:17:09,528 --> 00:17:10,654
+Xin lỗi.
+
+264
+00:17:10,863 --> 00:17:14,783
+Tôi không biết mấy cậu ủng hộ ai,
+vì hiện giờ tôi là trái banh rồi.
+
+265
+00:17:17,036 --> 00:17:23,042
+Trái banh.
+
+266
+00:17:25,919 --> 00:17:26,962
+Tạ ơn Chúa!
+
+267
+00:17:29,840 --> 00:17:31,091
+Như lời mẹ tôi nói.
+
+268
+00:17:36,722 --> 00:17:41,393
+– Tôi mừng vì cô và bạn trai đã làm lành.
+– Vâng, tôi cũng vậy.
+
+269
+00:17:41,560 --> 00:17:44,605
+Thật là khó khăn khi quả bom
+"yêu" rơi xuống lúc cô chưa sẵn sàng.
+
+270
+00:17:44,772 --> 00:17:46,065
+Anh kể nghe xem.
+
+271
+00:17:47,691 --> 00:17:50,778
+Tôi từng hẹn hò một người
+và nói lời yêu với cô ấy…
+
+272
+00:17:51,236 --> 00:17:53,155
+còn cô ấy thì nói mình không chắc.
+
+273
+00:17:53,781 --> 00:17:57,284
+Sau đó cô ta dây dưa với tôi
+gần hai năm. Vô cùng đau đớn.
+
+274
+00:17:57,826 --> 00:18:00,537
+– Ôi, tôi rất tiếc.
+– Cảm ơn.
+
+275
+00:18:01,080 --> 00:18:03,457
+Tôi chỉ ước giá như cô ta sút luôn tôi đi.
+
+276
+00:18:04,124 --> 00:18:05,959
+Để tôi đau một lần rồi thôi.
+
+277
+00:18:06,126 --> 00:18:08,253
+– Thật sao?
+– Vâng. Đau ngắn còn hơn đau dài.
+
+278
+00:18:08,712 --> 00:18:11,006
+– Wil, tới lượt anh.
+– Ồ, đến tôi rồi.
+
+279
+00:18:16,470 --> 00:18:18,430
+Wil Wheaton vừa nói gì với cậu?
+
+280
+00:18:18,639 --> 00:18:20,808
+– Cậu nói gì vậy?
+– Hắn là quỷ dữ.
+
+281
+00:18:20,974 --> 00:18:22,935
+Hắn chơi trò tâm lý của quỷ đấy.
+
+282
+00:18:23,102 --> 00:18:25,437
+– Hắn nói với cậu bà hắn chết?
+– Không.
+
+283
+00:18:25,646 --> 00:18:29,608
+Dù hắn nói gì, cũng không được tin.
+Hắn sẽ không xài lại chiêu <i>meemaw</i> chết nữa.
+
+284
+00:18:33,403 --> 00:18:34,488
+Có thế chứ!
+
+285
+00:18:35,656 --> 00:18:37,825
+Cứ tự sướng đi, Wil Wheaton.
+
+286
+00:18:37,991 --> 00:18:40,452
+Nhưng cũng như trong
+<i>Star Trek: Thế hệ Mới</i>…
+
+287
+00:18:40,619 --> 00:18:43,205
+sự tự mãn ngu ngốc đó sẽ khiến anh trả giá.
+
+288
+00:18:45,082 --> 00:18:47,251
+– Penny, tới lượt em.
+– Được rồi, nhớ là…
+
+289
+00:18:47,417 --> 00:18:51,004
+– <i>meemaw</i> vẫn còn sống và hãy là trái banh.
+– Ừ. Tôi biết.
+
+290
+00:18:51,171 --> 00:18:53,715
+– Ta cần một cú ném ăn ngay.
+– Em biết.
+
+291
+00:18:53,924 --> 00:18:56,969
+– Cứ bình tĩnh tập trung.
+– Leonard, đừng ép em nữa.
+
+292
+00:18:57,136 --> 00:18:59,429
+– Anh đâu có ép em.
+– Anh có. Lùi lại đi.
+
+293
+00:19:00,389 --> 00:19:02,224
+Được rồi. Anh xin lỗi. Anh sẽ im miệng.
+
+294
+00:19:04,393 --> 00:19:05,978
+Ý em không phải vậy.
+
+295
+00:19:06,311 --> 00:19:07,479
+Được thôi.
+
+296
+00:19:07,646 --> 00:19:09,940
+Nói anh biết em muốn gì và anh sẽ làm theo.
+
+297
+00:19:12,234 --> 00:19:15,445
+Không. Chuyện này
+thật bất công với anh, Leonard. Em xin lỗi.
+
+298
+00:19:17,156 --> 00:19:19,575
+Chờ đã, cậu đi đâu vậy? Penny, quay lại.
+
+299
+00:19:19,783 --> 00:19:20,951
+Tôi sẽ mua kem cho cậu.
+
+300
+00:19:21,660 --> 00:19:24,663
+– Đừng, để cô ấy đi.
+– Cậu điên à?
+
+301
+00:19:24,830 --> 00:19:26,665
+Nếu cô ấy đi, tất cả sẽ kết thúc.
+
+302
+00:19:27,249 --> 00:19:29,751
+Có lẽ tất cả đã kết thúc thật rồi.
+
+303
+00:19:30,961 --> 00:19:32,546
+Xui quá, Sheldon.
+
+304
+00:19:34,423 --> 00:19:36,592
+Do anh hết, đúng không?
+
+305
+00:19:36,800 --> 00:19:40,095
+Anh nghĩ tôi xúi một cặp bỏ nhau
+chỉ để thắng một trận bowling sao?
+
+306
+00:19:41,180 --> 00:19:44,433
+– Không, anh không đến nỗi đó.
+– Tốt. Cứ nghĩ thế đi.
+
+307
+00:19:48,353 --> 00:19:51,648
+Wheaton…
+
+308
+00:19:55,819 --> 00:20:00,240
+Nói cho anh biết, mấy em trên
+Ghepdoi.com còn tệ hơn cả trên eHoaHop.
+
+309
+00:20:02,826 --> 00:20:07,664
+Được rồi, tôi sẽ gọi lại sau. Tôi vừa
+thắng độ và giờ là lúc thu chiến lợi phẩm.
+
+310
+00:20:21,595 --> 00:20:25,432
+Không biết các cậu thấy thế nào,
+chứ tôi thấy tràn trề sức mạnh.
+
+311
+00:20:53,377 --> 00:20:55,379
+Thông dịch:
+Nguyễn Hồng Ngọc
+

@@ -1,0 +1,702 @@
+[
+	{
+		"amount" : "0:00:00.50",
+		"fields" : 0,
+		"filename" : "[2004] the bourne supremacy.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 10,
+				"start" : 10
+			}
+		]
+	},
+	{
+		"amount" : "0:00:00.50",
+		"fields" : 0,
+		"filename" : "[2004] the bourne supremacy.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 10,
+				"start" : 10
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.00",
+		"fields" : 0,
+		"filename" : "[2004] the bourne supremacy.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 8,
+				"start" : 8
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.00",
+		"fields" : 0,
+		"filename" : "[2004] the bourne supremacy.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 7,
+				"start" : 7
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.00",
+		"fields" : 0,
+		"filename" : "[2004] the bourne supremacy.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.00",
+		"fields" : 0,
+		"filename" : "[2004] the bourne supremacy.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.50",
+		"fields" : 0,
+		"filename" : "[2002] the bourne identity.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.50",
+		"fields" : 0,
+		"filename" : "[2002] the bourne identity.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.50",
+		"fields" : 0,
+		"filename" : "[2002] the bourne identity.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.50",
+		"fields" : 0,
+		"filename" : "[2002] the bourne identity.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.50",
+		"fields" : 0,
+		"filename" : "[2002] the bourne identity.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:00.20",
+		"fields" : 0,
+		"filename" : "The Terminator.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.00",
+		"fields" : 0,
+		"filename" : "The Terminator.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:04.00",
+		"fields" : 0,
+		"filename" : "The Terminator.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:06.00",
+		"fields" : 0,
+		"filename" : "The Terminator.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.40",
+		"fields" : 0,
+		"filename" : "[2010] shutter island.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.40",
+		"fields" : 0,
+		"filename" : "[2010] shutter island.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.00",
+		"fields" : 0,
+		"filename" : "[1995] 12 monkeys.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.60",
+		"fields" : 0,
+		"filename" : "[1995] 12 monkeys.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[1995] 12 monkeys.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[1995] 12 monkeys.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "Cunk.On.Earth.S01E01.WEBRip.Netflix.vi.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:06.00",
+		"fields" : 0,
+		"filename" : "Cunk.On.Earth.S01E01.WEBRip.Netflix.vi.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "Cunk.On.Earth.S01E01.WEBRip.Netflix.vi.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2012] the dark knight rises.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:00.28",
+		"fields" : 0,
+		"filename" : "[2023] creation of the gods I.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 2,
+				"start" : 2
+			}
+		]
+	},
+	{
+		"amount" : "0:00:04.00",
+		"fields" : 0,
+		"filename" : "[2023] creation of the gods I.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 2,
+				"start" : 2
+			}
+		]
+	},
+	{
+		"amount" : "0:00:08.00",
+		"fields" : 0,
+		"filename" : "[2023] creation of the gods I.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:01.00",
+		"fields" : 0,
+		"filename" : "[1986] top gun.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:05.00",
+		"fields" : 0,
+		"filename" : "[1986] top gun.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 24.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 23.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 22.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 21.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 20.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 19.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 18.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 17.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 16.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 15.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 14.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 13.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 12.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 11.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 10.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 09.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 08.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 07.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 06.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "[2011] the big bang theory • season 05 • episode 05.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	}
+]

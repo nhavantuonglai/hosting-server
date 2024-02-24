@@ -1,0 +1,865 @@
+{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\config.json\"",
+	"sec" : 1708748139,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 90779600
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_d77eac45c7d1ed80b30fa3b7459de31f>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\log\\*.json\"",
+	"sec" : 1708748139,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 90779600
+}{
+	"file" : "..\\..\\src\\command\\command.cpp",
+	"func" : "cmd::init_builtin_commands",
+	"line" : 80,
+	"message" : "Populating command map",
+	"sec" : 1708748139,
+	"section" : "command/init",
+	"severity" : 4,
+	"usec" : 90779600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Hotkey",
+	"line" : 91,
+	"message" : "Generating hotkeys.",
+	"sec" : 1708748139,
+	"section" : "hotkey/init",
+	"severity" : 4,
+	"usec" : 95282400
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_d77eac45c7d1ed80b30fa3b7459de31f>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=10485760, cursize=232319, maxfiles=100, numfiles=14), exiting",
+	"sec" : 1708748139,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 95282400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\hotkey.json\"",
+	"sec" : 1708748139,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 95282400
+}{
+	"file" : "..\\..\\libaegisub\\common\\mru.cpp",
+	"func" : "agi::MRUManager::MRUManager",
+	"line" : 67,
+	"message" : "Loading MRU List",
+	"sec" : 1708748139,
+	"section" : "agi/mru",
+	"severity" : 4,
+	"usec" : 95282400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\mru.json\"",
+	"sec" : 1708748139,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 95282400
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Raster: FreeType 2.5.3",
+	"sec" : 1708748139,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 95282400
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Shaper: FriBidi 0.19.6 (SIMPLE)",
+	"sec" : 1708748139,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 95282400
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "Initialized",
+	"sec" : 1708748139,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 95282400
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 85,
+	"message" : "No usable fontconfig configuration file found, using fallback.",
+	"sec" : 1708748139,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 95282400
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 100,
+	"message" : "Entering FrameMain constructor",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 142158700
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 111,
+	"message" : "Initializing context controls",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 142158700
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 118,
+	"message" : "Initializing context frames",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 142158700
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 122,
+	"message" : "Apply saved Maximized state",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 142158700
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 125,
+	"message" : "Initialize toolbar",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 142158700
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 130,
+	"message" : "Initialize menu bar",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 221241200
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 133,
+	"message" : "Create status bar",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 242133000
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 136,
+	"message" : "Set icon",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 242133000
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 145,
+	"message" : "Create views and inner main window controls",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 242133000
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 187,
+	"message" : "Create background panel",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 242133000
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 190,
+	"message" : "Create subtitles grid",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 242133000
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 193,
+	"message" : "Create video box",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 253599300
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 196,
+	"message" : "Create audio box",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 316139700
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 199,
+	"message" : "Create subtitle editing box",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 378763300
+}{
+	"file" : "..\\..\\src\\spellchecker_hunspell.cpp",
+	"func" : "HunspellSpellChecker::OnLanguageChanged",
+	"line" : 197,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\dictionaries\\en_US.dic\"",
+	"sec" : 1708748139,
+	"section" : "dictionary/file",
+	"severity" : 3,
+	"usec" : 421253100
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\dictionaries\\user_en_US.dic\"",
+	"sec" : 1708748139,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 442388500
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 202,
+	"message" : "Arrange main sizers",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 489851800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 215,
+	"message" : "Perform layout",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 489851800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 217,
+	"message" : "Leaving InitContents",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 489851800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 149,
+	"message" : "Set up drag/drop target",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 489851800
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 152,
+	"message" : "Load default file",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 492582500
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 155,
+	"message" : "Display main window",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 506193900
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 160,
+	"message" : "Leaving FrameMain constructor",
+	"sec" : 1708748139,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 642179800
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_d77eac45c7d1ed80b30fa3b7459de31f>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\autosave\\*.AUTOSAVE.ass\"",
+	"sec" : 1708748139,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 642179800
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_d77eac45c7d1ed80b30fa3b7459de31f>::operator ()",
+	"line" : 176,
+	"message" : "cache does not need cleaning (maxsize=104857600, cursize=1997199, maxfiles=1000, numfiles=19), exiting",
+	"sec" : 1708748139,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 653020600
+}{
+	"file" : "..\\..\\src\\charset_detect.cpp",
+	"func" : "CharSetDetect::GetEncoding",
+	"line" : 62,
+	"message" : "\"D:\\OneDrive - Rawfulness\\rawfulness-cinematic\\filmcine\\[2004] the bourne supremacy.srt.srt\" (UTF-16LE)",
+	"sec" : 1708748160,
+	"section" : "charset/file",
+	"severity" : 3,
+	"usec" : 921710200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"D:\\OneDrive - Rawfulness\\rawfulness-cinematic\\filmcine\\[2004] the bourne supremacy.srt.srt\"",
+	"sec" : 1708748160,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 921710200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"D:\\OneDrive - Rawfulness\\rawfulness-cinematic\\filmcine\\[2004] the bourne supremacy.srt.srt\"",
+	"sec" : 1708748160,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 921710200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\mru.json\"",
+	"sec" : 1708748160,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 949917800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-F  Context (req/found): Subtitle Grid/Default   Command: subtitle/find",
+	"sec" : 1708748177,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 157874800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748193,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 642612600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748196,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 816574700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748198,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 683610300
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\autosave\\[2004] the bourne supremacy.srt.srt.2024-02-24-11-16-39.AUTOSAVE.ass\"",
+	"sec" : 1708748199,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 145124500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748203,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 510464500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748247,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 132398400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748252,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 644703700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748254,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 331190600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748256,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 54688300
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\autosave\\[2004] the bourne supremacy.srt.srt.2024-02-24-11-17-39.AUTOSAVE.ass\"",
+	"sec" : 1708748259,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 143612100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748260,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 382759700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748260,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 786290300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748276,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 898623400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748280,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 911913700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748281,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 103510700
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748284,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 510793200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748288,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 765434400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748288,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 986712200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748291,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 141376600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748296,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 651369800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748303,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 248972000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748303,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 470156600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748303,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 833763400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748304,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 193620600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748305,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 515112400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748305,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 734723600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748305,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 970280400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748306,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 145011100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748306,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 541327400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748306,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 786584000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748307,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 56563000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748307,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 941203800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748308,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 192640300
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748308,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 665856600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748309,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 394309200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748311,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 207715400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748311,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 381794600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748313,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 749331800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748317,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 639129200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748317,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 909041200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\autosave\\[2004] the bourne supremacy.srt.srt.2024-02-24-11-18-39.AUTOSAVE.ass\"",
+	"sec" : 1708748319,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 131435100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748321,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 754243100
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748321,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 945254200
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748323,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 620008600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748323,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 808275800
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748327,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 244359500
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-Delete  Context (req/found): Subtitle Grid/Default   Command: edit/line/delete",
+	"sec" : 1708748375,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 539727700
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\autosave\\[2004] the bourne supremacy.srt.srt.2024-02-24-11-19-39.AUTOSAVE.ass\"",
+	"sec" : 1708748379,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 160177400
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"D:\\OneDrive - Rawfulness\\rawfulness-cinematic\\filmcine\\[2004] the bourne supremacy.srt\"",
+	"sec" : 1708748392,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 574217800
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 49,
+	"message" : "\"D:\\OneDrive\\rawfulness-system\\collection-portable\\subtitlesae\\config.json\"",
+	"sec" : 1708754340,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 922169400
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1708754340,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 936846800
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1708754340,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 936846800
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1708754340,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 960984200
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 591,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1708754340,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 960984200
+}

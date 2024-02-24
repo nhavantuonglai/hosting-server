@@ -1,0 +1,2200 @@
+﻿1
+00:00:00,000 --> 00:00:05,000
+…
+
+2
+00:00:42,125 --> 00:00:43,125
+<i>Thời gian.</i>
+
+3
+00:00:46,625 --> 00:00:47,625
+<i>Không gian.</i>
+
+4
+00:00:49,375 --> 00:00:50,375
+<i>Thực tại.</i>
+
+5
+00:00:53,208 --> 00:00:55,000
+<i>Không chỉ là một con đường thẳng kéo dài mãi.</i>
+
+6
+00:00:59,875 --> 00:01:04,541
+<i>Mà đó là một lăng kính
+chứa những khả năng vô tận,</i>
+
+7
+00:01:06,833 --> 00:01:10,333
+<i>và ở đó chỉ một lựa chọn có thể
+phân nhánh thành những thực tại vô hạn,</i>
+
+8
+00:01:13,041 --> 00:01:16,041
+<i>tạo ra các thế giới khác xa
+những thế giới mà bạn biết.</i>
+
+9
+00:01:19,916 --> 00:01:21,166
+<i>Tôi là Watcher – Người quan sát.</i>
+
+10
+00:01:23,500 --> 00:01:26,666
+<i>Tôi sẽ là người đưa bạn đi
+qua những thực tại mới và rộng lớn này.</i>
+
+11
+00:01:28,250 --> 00:01:31,916
+<i>Hãy theo tôi và cùng suy ngẫm về câu hỏi…</i>
+
+12
+00:01:35,333 --> 00:01:36,708
+<i>"Nếu vậy thì sao?"</i>
+
+13
+00:01:50,916 --> 00:01:52,791
+Thắng nè. Trúng luôn nè.
+
+14
+00:01:55,583 --> 00:01:57,208
+Trúng luôn nè. Thắng nè.
+
+15
+00:01:58,791 --> 00:02:01,083
+Thắng nè. Trúng luôn nè.
+
+16
+00:02:02,166 --> 00:02:03,458
+Thắng…
+
+17
+00:02:04,250 --> 00:02:07,250
+Chuẩn phóc! Ngay lần thử đầu tiên luôn.
+Jane à, chị nợ em 50…
+
+18
+00:02:07,333 --> 00:02:09,083
+-Uh… Ôi! Uh…
+
+19
+00:02:09,166 --> 00:02:10,875
+Uh, Jane, Jane, Jane!
+
+20
+00:02:10,958 --> 00:02:12,708
+Nó đang bíp bíp kìa!
+Nó đang phát ra tiếng bíp bíp kìa!
+
+21
+00:02:14,125 --> 00:02:16,375
+Tôi cần nói chuyện với
+giám đốc của S.H.I.E.L.D.
+
+22
+00:02:16,458 --> 00:02:17,958
+Bởi vì, nếu dữ liệu của tôi là chính xác,
+
+23
+00:02:18,041 --> 00:02:19,708
+Tôi tin rằng một cuộc xâm lược
+ngoài hành tinh sắp xảy ra và…
+
+24
+00:02:19,791 --> 00:02:20,791
+– Xin chào?
+
+25
+00:02:22,250 --> 00:02:25,041
+Hai năm trước, điều bất thường tương tự
+cũng đã xảy ra với Sao Alpha Icarus
+
+26
+00:02:25,125 --> 00:02:27,708
+và toàn bộ ngôi sao đó mờ đi rồi bị tan rã.
+
+27
+00:02:28,958 --> 00:02:32,458
+Vâng, tôi biết đây là Sở quản lý Công viên,
+nhưng anh không thể làm gì đó hay sao?
+
+28
+00:02:32,541 --> 00:02:34,625
+Bọn tôi đang nói về ngày tận thế đó anh bạn.
+
+29
+00:02:39,791 --> 00:02:41,625
+Họ đến đây rồi.
+
+30
+00:02:41,708 --> 00:02:44,208
+Quá muộn rồi.
+Cuộc xâm lược đã bắt đầu.
+
+31
+00:02:51,208 --> 00:02:52,208
+– Ối giời ơi!
+– Ôi!
+
+32
+00:02:56,166 --> 00:02:57,750
+Hỡi các công dân Trung Địa…
+
+33
+00:02:59,416 --> 00:03:02,708
+…cuộc sống buồn tẻ
+của các ngươi sắp kết thúc rồi.
+
+34
+00:03:02,791 --> 00:03:05,083
+– Hãy chuẩn bị…
+
+35
+00:03:08,458 --> 00:03:11,208
+Đón chào Hoàng tử tiệc tùng nào!
+
+36
+00:03:14,583 --> 00:03:17,583
+– Sẽ rất tuyệt đây. Hú!
+
+37
+00:03:17,666 --> 00:03:19,708
+So với những trận chiến
+thành công hay thất bại,
+
+38
+00:03:19,791 --> 00:03:22,583
+những mối quan hệ mới thực sự
+mới thể hiện được một vị anh hùng.
+
+39
+00:03:22,666 --> 00:03:24,958
+Những con người định hình họ,
+hay cả những câu chuyện của họ.
+
+40
+00:03:25,875 --> 00:03:29,500
+<i>Thor và Loki, một tình anh
+em rất mạnh mẽ và thiết yếu,</i>
+
+41
+00:03:29,583 --> 00:03:31,708
+<i>sẽ có thể thay đổi
+số phận của cả một vũ trụ.</i>
+
+42
+00:03:32,708 --> 00:03:36,083
+<i>Tuổi thơ của họ đã dạy cho
+Thor rất nhiều bài học.</i>
+
+43
+00:03:37,291 --> 00:03:38,708
+<i>Nhưng ở một vũ trụ khác,</i>
+
+44
+00:03:38,791 --> 00:03:42,916
+<i>thay vì nuôi lớn hoàng tử Jotunheim,
+Loki, như con ruột của mình,</i>
+
+45
+00:03:43,000 --> 00:03:45,333
+<i>Odin đã mang trả lại đứa bé
+cho tộc người của nó.</i>
+
+46
+00:03:45,416 --> 00:03:49,333
+<i>Vì không có người em trai lừa lọc
+để, cứ nói là, khuấy động mọi thứ,</i>
+
+47
+00:03:49,416 --> 00:03:52,458
+<i>Thor đã trở thành một hoàng tử rất khác.</i>
+
+48
+00:03:57,708 --> 00:04:00,083
+Hãy yên nghỉ nhé, tình yêu của em.
+
+49
+00:04:00,166 --> 00:04:04,291
+Hãy để Giấc ngủ Odin hồi phục
+cơ thể và linh hồn anh.
+
+50
+00:04:17,750 --> 00:04:20,291
+Ông ấy ngủ rồi. Và, ờ…
+
+51
+00:04:20,375 --> 00:04:23,458
+Mẹ đến nhà chị em của mẹ
+để ăn mừng ngày hạ chí đây.
+
+52
+00:04:23,541 --> 00:04:27,041
+Giờ thì đây là lần đầu tiên con được
+nếm trải vương quyền, hoàng tử của mẹ ạ.
+
+53
+00:04:27,125 --> 00:04:28,416
+Mẹ mong con sẽ học hỏi,
+
+54
+00:04:28,500 --> 00:04:31,000
+tìm hiểu thêm về Cửu giới mà
+một ngày nào đó con sẽ thống trị.
+
+55
+00:04:31,083 --> 00:04:32,208
+Tất nhiên rồi thưa Mẹ.
+
+56
+00:04:32,291 --> 00:04:34,208
+– Không có tiệc tùng đâu nhé.
+– Tất nhiên rồi thưa Mẹ.
+
+57
+00:04:34,291 --> 00:04:36,500
+Nhớ là Heimdall sẽ theo dõi con đó.
+
+58
+00:04:38,166 --> 00:04:40,291
+Chờ đã, gì cơ ạ?
+Mẹ đùa đúng không?
+
+59
+00:04:40,375 --> 00:04:41,458
+Ngoan vào đấy.
+
+60
+00:04:48,458 --> 00:04:49,708
+Ồ, Heimdall, ông đây rồi.
+
+61
+00:04:50,250 --> 00:04:53,666
+Tôi chuẩn bị đi nghiên cứu chút đây.
+Sách đâu tự đọc được đúng không?
+
+62
+00:04:53,750 --> 00:04:55,041
+Nhưng mẹ cậu nói…
+
+63
+00:04:55,125 --> 00:04:56,750
+Đừng có phá vui vậy chứ Hogun.
+
+64
+00:04:56,833 --> 00:04:59,791
+Ôi, các bạn, dừng lại đi. Cha tôi đã
+cai trị Asgard trong nhiều thế kỷ rồi.
+
+65
+00:04:59,875 --> 00:05:02,666
+Và, nghe này, điều thú vị nhất mà
+ông ấy từng làm là chìm vào giấc ngủ đó.
+
+66
+00:05:02,750 --> 00:05:06,750
+Ông ấy chỉ luôn quan tâm đến nghĩa vụ
+và trách nhiệm gì gì đó thôi.
+
+67
+00:05:06,833 --> 00:05:09,958
+Tôi sẽ không giống ông ấy đâu, được chứ?
+Một vị vua nhàm chán hả? Không nhé.
+
+68
+00:05:11,333 --> 00:05:16,666
+Nhưng Heimdall thấy tất cả đó.
+Nếu ta thử làm bất cứ điều gì, ông ấy sẽ gọi Frigga đó.
+
+69
+00:05:16,750 --> 00:05:18,250
+Ôi tin người ta hơn chút đi.
+
+70
+00:05:18,333 --> 00:05:20,500
+Ta sẽ đến một hành tinh lạc hậu nhất,
+
+71
+00:05:20,583 --> 00:05:23,750
+ tù túng nhất mà ngay cả
+Heimdall cũng không thèm để ý đến.
+
+72
+00:05:23,833 --> 00:05:25,250
+Báo cho các giới khác biết đi.
+
+73
+00:05:26,750 --> 00:05:29,500
+– Tiệc tùng trên Trung Địa!
+
+74
+00:05:29,583 --> 00:05:31,125
+Tuyệt!
+
+75
+00:05:31,208 --> 00:05:32,541
+Huzzah!
+
+76
+00:05:32,625 --> 00:05:35,041
+Vì Thor, hoàng tử tiệc tùng!
+
+77
+00:05:35,125 --> 00:05:37,208
+– Chào mừng! Chào mừng các bạn.
+– Hoàng tử tiệc tùng!
+
+78
+00:05:37,291 --> 00:05:38,625
+Tận hưởng buổi tối đi nha.
+
+79
+00:05:38,708 --> 00:05:39,708
+Cái ôm sấm sét.
+
+80
+00:05:41,041 --> 00:05:43,375
+Đây, uống đi.
+Nó không bao giờ cạn đâu.
+
+81
+00:05:43,458 --> 00:05:47,291
+Cứ thử uống hết xem, nhưng 
+không thể đâu vì nó có ma thuật đó! Huzzah!
+
+82
+00:05:47,375 --> 00:05:51,125
+Huzzah! Thor! Thor! Thor! Thor! Thor!
+
+83
+00:05:52,291 --> 00:05:54,958
+Phim Hollywood không
+giúp ích gì cho em luôn ấy.
+
+84
+00:05:55,041 --> 00:05:58,375
+Chả phải là nên có nhiều laze hơn à?
+Robot thăm dò? Bò bay nữa?
+
+85
+00:05:58,458 --> 00:05:59,541
+Theo dữ liệu của chị,
+
+86
+00:05:59,625 --> 00:06:02,791
+ người ngoài hành tinh đến đây đầu tiên là…
+
+87
+00:06:02,875 --> 00:06:04,666
+– Anh ta à?
+
+88
+00:06:10,875 --> 00:06:13,375
+Huh. Chị cứ mong là anh ấy trông giống…
+
+89
+00:06:13,458 --> 00:06:17,083
+Như nào? E.T. hả? Và bớt giống một
+McScotty nóng bỏng, hay Ken thân hình bãi biển,
+
+90
+00:06:17,166 --> 00:06:20,708
+hay mấy anh trên cuốn catalog Abercrombie cũ?
+Em có thể tiếp tục nói đó. Cứ để em.
+
+91
+00:06:20,791 --> 00:06:21,916
+Chị sẽ ra nói chuyện với anh ấy.
+
+92
+00:06:22,000 --> 00:06:23,750
+Chị sẽ là người đầu tiên tiếp xúc với
+một người ngoài hành tinh đây.
+
+93
+00:06:23,833 --> 00:06:26,250
+Đầu tiên á? Em nghĩ là nửa số dân
+Las Vegas làm trước chị rồi đó.
+
+94
+00:06:26,333 --> 00:06:27,916
+Chị có thể là người đầu tiên tiếp xúc với…
+
+95
+00:06:28,000 --> 00:06:30,333
+Em chả biết nữa, anh chàng kia kìa.
+Trông như một kẻ thất bại ấy.
+
+96
+00:06:30,416 --> 00:06:32,541
+Ha! Cô gái tóc nâu đây gáy to quá nhỉ.
+
+97
+00:06:33,500 --> 00:06:35,583
+Chị đi đây. Trông chị như thế nào?
+
+98
+00:06:35,666 --> 00:06:38,375
+Hoàn toàn không chuẩn bị cho
+bất cứ điều gì xảy ra tiếp theo cả.
+
+99
+00:06:38,458 --> 00:06:39,875
+Ôi, biến thành tôi đi.
+
+100
+00:06:40,458 --> 00:06:44,250
+Tuyệt, cả anh.
+Cả anh, và cả anh nữa.
+
+101
+00:06:44,333 --> 00:06:47,291
+Ôi, các bạn thực sự hiểu tôi mà.
+Đúng chứ?
+
+102
+00:06:47,875 --> 00:06:49,333
+Huh? Ồ.
+
+103
+00:06:49,416 --> 00:06:52,083
+Ồ, cô đây rồi, ở tít dưới đó.
+
+104
+00:06:52,166 --> 00:06:54,583
+Thật nhỏ bé, tôi gần như giẫm lên cô đó.
+Cô khỏe không vậy?
+
+105
+00:06:54,666 --> 00:06:57,125
+Tôi là Tiến sĩ Jane Foster của Trái đất.
+
+106
+00:06:57,208 --> 00:06:59,375
+Vâng, Thor, Hoàng tử của Asgard.
+
+107
+00:06:59,458 --> 00:07:02,083
+Uh, cô muốn uống rượu,
+ăn crudité, hay ăn bánh vậy?
+
+108
+00:07:02,166 --> 00:07:04,291
+Mmm. Topaz, tôi luôn nói gì nhỉ?
+
+109
+00:07:04,375 --> 00:07:05,541
+– Tôi yêu bánh ngọt.
+– Mmm.
+
+110
+00:07:05,833 --> 00:07:07,666
+Đợi, đợi đãi. Anh là Thor à?
+
+111
+00:07:07,750 --> 00:07:10,375
+Như trong Thor, Thần sấm Bắc u ư?
+
+112
+00:07:10,458 --> 00:07:14,750
+Tôi không biết gì về ngựa thần thần ngựa cả,
+cơ mà tôi biết cách gọi sấm đó.
+
+113
+00:07:14,833 --> 00:07:17,416
+Uh… Được rồi, tiếp tục nào.
+
+114
+00:07:17,500 --> 00:07:20,416
+Mười tám tháng trước,
+Sao Alpha Icarus đã chết.
+
+115
+00:07:20,500 --> 00:07:22,125
+Hiện tượng thiên văn học
+dị thường trước đó…
+
+116
+00:07:22,208 --> 00:07:24,250
+…lại xảy ra tối nay.
+– Đừng uống quá nhiều nhé.
+
+117
+00:07:24,333 --> 00:07:26,041
+– Hay quá ít.
+– Này, chàng trai sấm sét.
+
+118
+00:07:26,125 --> 00:07:28,250
+Những gì tôi đang hỏi là,
+đó có phải là anh không?
+
+119
+00:07:28,333 --> 00:07:32,000
+Đúng, Sao Alpha.
+Đó là một bữa tiệc tuyệt vời đó.
+
+120
+00:07:32,083 --> 00:07:34,083
+Cô biết đấy, chúng tôi đã lạc mất
+Fandral trong tận ba ngày trời.
+
+121
+00:07:34,166 --> 00:07:36,916
+Rồi tìm thấy anh ấy trong một cái chuồng,
+cuộn tròn bên cạnh một con dê con.
+
+122
+00:07:37,000 --> 00:07:38,875
+Cổ điển luôn.
+Đúng không, Fandral?
+
+123
+00:07:38,958 --> 00:07:40,875
+Tôi đặt tên cho nó là Gary đó.
+
+124
+00:07:40,958 --> 00:07:42,291
+– Đúng vậy.
+– Ừ, dê!
+
+125
+00:07:42,375 --> 00:07:43,625
+Anh đã phá hủy cả một hành tinh.
+
+126
+00:07:43,708 --> 00:07:46,416
+Ồ, cái hộp đèn mà
+cô có ở đó là gì vậy?
+
+127
+00:07:46,500 --> 00:07:49,291
+Ôi, là ma thuật. Tôi yêu ma thuật.
+Cô tự dựng thứ này một mình à?
+
+128
+00:07:49,375 --> 00:07:52,875
+Gì cơ? Tôi tình cờ là một nhà
+vật lý thiên văn với nhiều bằng tiến sĩ đấy.
+
+129
+00:07:52,958 --> 00:07:56,375
+Cô biết không, sẽ phải có cả một nhóm
+người Asgard mới tạo ra một thứ như này đấy.
+
+130
+00:07:56,458 --> 00:07:59,625
+Cô hẳn là một thiên tài.
+Cô là một thiên tài, phải không?
+
+131
+00:07:59,708 --> 00:08:02,291
+Tôi không biết nữa, nhưng…
+
+132
+00:08:02,375 --> 00:08:03,875
+– Và đôi mắt của cô…
+
+133
+00:08:03,958 --> 00:08:07,333
+Có phải tất cả các thiên tài đều có đôi mắt
+sâu và đen như vậy không?
+
+134
+00:08:07,416 --> 00:08:10,625
+Cứ như tôi đang được thấy sự ra đời
+của hai ngôi sao ở rìa thiên hà vậy.
+
+135
+00:08:10,708 --> 00:08:12,500
+Ồ.
+
+136
+00:08:14,208 --> 00:08:17,041
+Đến giờ vui vẻ rồi.
+Muốn ăn nachos giảm nửa giá không?
+
+137
+00:08:17,125 --> 00:08:20,041
+Được rồi, anh Vịt.
+Nhưng đây không phải hẹn hò đâu nhé.
+
+138
+00:08:20,125 --> 00:08:21,750
+Cứ xem mọi chuyện tiến triển ra sao.
+
+139
+00:08:33,458 --> 00:08:34,708
+Huh?
+
+140
+00:08:34,791 --> 00:08:35,875
+Xả bọt ra đi.
+
+141
+00:08:39,541 --> 00:08:41,250
+– Thổi nhẹ vào cái này đi.
+
+142
+00:08:41,333 --> 00:08:42,833
+Má mì đang cần một con mắt
+hoàn toàn mới đây.
+
+143
+00:08:51,208 --> 00:08:54,000
+Volstagg đã rơi rồi!
+
+144
+00:08:54,083 --> 00:08:56,166
+Ta tuyên bố hai con là
+Darcy và Anh Vịt.
+
+145
+00:08:56,250 --> 00:08:57,291
+<i>Uh-huh</i>
+
+146
+00:09:22,541 --> 00:09:24,083
+A, điện thoại.
+
+147
+00:09:31,666 --> 00:09:36,166
+A, điện thoại… Điện thoại! Ôi, im đi!
+
+148
+00:09:39,083 --> 00:09:40,416
+Tiến sĩ Jane Foster?
+
+149
+00:09:40,500 --> 00:09:42,750
+Tôi đến đây.
+
+150
+00:09:42,833 --> 00:09:44,625
+Tiến sĩ Jane Foster!
+
+151
+00:09:44,708 --> 00:09:46,375
+Chờ chút.
+
+152
+00:09:46,458 --> 00:09:48,833
+Tiến sĩ Jane Foster, S.H.I.E.L.D. đây.
+
+153
+00:09:51,916 --> 00:09:53,291
+Nếu cô không trả lời, chúng tôi sẽ…
+
+154
+00:09:53,375 --> 00:09:54,791
+Vâng?
+
+155
+00:09:54,875 --> 00:09:55,875
+Cô ấy đây rồi.
+
+156
+00:09:55,958 --> 00:09:58,208
+Maria Hill, Quyền Giám đốc S.H.I.E.L.D.
+
+157
+00:09:58,291 --> 00:09:59,666
+– Cô cần phải đi với chúng tôi.
+– Uh…
+
+158
+00:10:00,958 --> 00:10:04,041
+Có thể đợi đến sau bữa sáng không? Vì…
+
+159
+00:10:04,125 --> 00:10:08,291
+Cô là người đầu tiên cảnh báo chúng tôi
+về mối đe dọa ngoài trái đất này.
+
+160
+00:10:08,375 --> 00:10:11,625
+Giờ tôi hy vọng cô sẽ
+là nhân tố giúp loại bỏ nó.
+
+161
+00:10:11,708 --> 00:10:14,708
+"Mối đe dọa"? Cô thực sự coi
+anh ấy là một mối đe dọa à?
+
+162
+00:10:14,791 --> 00:10:18,708
+Cô có muốn biết tại sao tôi là
+Quyền Giám đốc không, Tiến sĩ Foster?
+
+163
+00:10:18,791 --> 00:10:20,041
+Không.
+
+164
+00:10:20,125 --> 00:10:24,750
+Này, Spicoli. Đây có thể là bữa tiệc của anh,
+nhưng đây không phải là hành tinh của anh đâu.
+
+165
+00:10:24,833 --> 00:10:26,583
+Trước khi ai đó bị thương, tôi cần…
+
+166
+00:10:26,666 --> 00:10:27,666
+Đạn súng thần công!
+
+167
+00:10:31,375 --> 00:10:32,416
+Ôi!
+
+168
+00:10:32,500 --> 00:10:34,416
+– Ông ấy có sao không?
+– Ông ấy vẫn chưa tỉnh.
+
+169
+00:10:36,083 --> 00:10:37,208
+Ta có đồ ăn không?
+
+170
+00:10:37,291 --> 00:10:38,833
+Cô có người ở cùng à, Tiến sĩ Foster?
+
+171
+00:10:38,916 --> 00:10:40,458
+– Uh… Một người bạn thôi.
+
+172
+00:10:40,541 --> 00:10:43,208
+Các bạn, các bạn, hãy nhìn xem.
+Có một con thỏ nhỏ dễ thương trong bồn rửa kìa.
+
+173
+00:10:43,291 --> 00:10:46,083
+Ôi, nhìn con thỏ nhỏ bé này.
+Nó thật đẹp.
+
+174
+00:10:46,166 --> 00:10:49,000
+Anh ấy là… một nhà động vật học.
+Tôi sẽ gọi cho cô, được chứ?
+
+175
+00:10:51,958 --> 00:10:53,375
+Tôi đã nói với cô tất cả mọi thứ rồi.
+
+176
+00:10:53,458 --> 00:10:55,583
+Tôi đã lần theo nguồn gốc
+hiện tượng dị thường đó đến Vegas.
+
+177
+00:10:55,666 --> 00:10:57,083
+Và sau đó cô đã làm gì?
+
+178
+00:10:57,166 --> 00:11:00,375
+Ờm… Uh…
+
+179
+00:11:00,458 --> 00:11:02,833
+Giám đốc, không khí bữa tiệc
+dường như đang lan tỏa rộng ra.
+
+180
+00:11:04,000 --> 00:11:07,000
+Canada, Mông Cổ, thậm chí cả
+vùng nông thôn Hà Lan Pennsylvania nữa.
+
+181
+00:11:07,083 --> 00:11:10,166
+Được dẫn đầu bởi kẻ chủ mưu chính,
+Thor từ Asgard,
+
+182
+00:11:10,250 --> 00:11:11,750
+Hiện đã bay đi đâu đó rồi.
+
+183
+00:11:11,833 --> 00:11:14,125
+Gì cơ? Anh ấy rời đi rồi à?
+
+184
+00:11:14,208 --> 00:11:17,083
+Anh ấy có… có để lại thư hay ghi chú gì…
+
+185
+00:11:17,833 --> 00:11:21,041
+Ý tôi là, anh ấy có nói là sẽ đi đâu không?
+
+186
+00:11:21,125 --> 00:11:22,625
+– Mượt đấy.
+– Cảm ơn.
+
+187
+00:11:22,708 --> 00:11:24,250
+– Nói mỉa đó mẹ.
+– Paris.
+
+188
+00:11:24,333 --> 00:11:28,250
+Đó là một trong những đồng hương của anh ta,
+và tôi có thể trích dẫn là, "vui mừng vì bánh crêpes."
+
+189
+00:11:28,333 --> 00:11:29,333
+Thưa bà…
+
+190
+00:11:30,791 --> 00:11:32,375
+phương sách cuối cùng đã đến.
+
+191
+00:11:32,458 --> 00:11:35,500
+Chà, chà. "Phương sách cuối"
+nghe có vẻ rất rất… cuối cùng đó.
+
+192
+00:11:35,583 --> 00:11:38,375
+Đây là cuộc chạm trán đầu tiên của
+Trái đất với sự sống ngoài hành tinh.
+
+193
+00:11:38,458 --> 00:11:41,333
+Cách chúng ta phản ứng hôm nay
+sẽ tạo ra mối quan hệ ngoại giao
+
+194
+00:11:41,416 --> 00:11:43,333
+giữa các thế giới của ta
+trong nhiều thế hệ đó.
+
+195
+00:11:43,416 --> 00:11:47,666
+"Quan hệ ngoại giao"?
+Có phải mấy đứa trẻ con hay gọi vậy không?
+
+196
+00:11:47,750 --> 00:11:48,875
+Cô sai rồi Tiến sĩ.
+
+197
+00:11:48,958 --> 00:11:51,708
+Đây không phải là cuộc chơi với người ngoài
+hành tinh đầu tiên của S.H.I.E.L.D. đâu.
+
+198
+00:11:52,666 --> 00:11:56,375
+Máy nhắn tin hả? Bố tôi có một cái đó!
+Ông ấy là một bác sĩ chuyên khoa chân đấy.
+
+199
+00:11:56,458 --> 00:11:58,750
+Chờ đã, cô đang gọi bác sĩ
+chuyên khoa chân đấy à?
+
+200
+00:12:01,625 --> 00:12:02,625
+Xong rồi.
+
+201
+00:12:04,250 --> 00:12:07,208
+Nó có đang xảy ra không?
+Nó có xảy ra không? Tôi đã bỏ lỡ điều gì vậy?
+
+202
+00:12:08,000 --> 00:12:09,791
+Được rồi, chụp nào. Nép vào đi.
+
+203
+00:12:09,875 --> 00:12:12,708
+– Mọi người nói "bánh quế" nào. Tôi yêu từ đó.
+– Cheese.
+
+204
+00:12:12,791 --> 00:12:14,875
+Bánh quế với xi-rô cây phong và kem tươi ở trên.
+
+205
+00:12:14,958 --> 00:12:15,958
+– Thor!
+– Thor!
+
+206
+00:12:16,041 --> 00:12:17,416
+Anh ta đến rồi!
+Anh ta đang ở đây rồi!
+
+207
+00:12:17,916 --> 00:12:22,166
+Này! Cái thằng nhãi ranh con nhà bà phù thủy,
+Thor Odinson ở đâu rồi?
+
+208
+00:12:23,208 --> 00:12:25,125
+Nói gì cơ?
+
+209
+00:12:25,208 --> 00:12:30,083
+Fandral, nói tôi nghe, có phải cái que kem
+xấu xí như cái mông đó đang nói với tôi không?
+
+210
+00:12:39,583 --> 00:12:41,500
+– Chơi nào.
+– Không thể tin được là cậu đã đến!
+
+211
+00:12:41,583 --> 00:12:43,666
+Loki, cậu là tuyệt vời nhất!
+
+212
+00:12:43,750 --> 00:12:45,750
+Anh là anh trai từ một
+người mẹ khác của em đó. Nói thật đấy.
+
+213
+00:12:45,833 --> 00:12:47,625
+– Thật đó.
+– Mãi mãi là anh em.
+
+214
+00:12:47,708 --> 00:12:49,541
+<i>Mãi mãi là anh em.</i>
+
+215
+00:12:49,625 --> 00:12:50,916
+Mãi mãi!
+
+216
+00:12:52,291 --> 00:12:54,625
+Chờ đã, cái tiếng đó là gì vậy?
+Cậu xả rắm hả?
+
+217
+00:12:54,708 --> 00:12:56,583
+Không, em đâu có.
+Là anh à? Anh toàn làm thế mà.
+
+218
+00:12:56,666 --> 00:12:59,041
+ – Không bao giờ luôn.
+Chỉ khi anh ở một mình thôi.
+
+219
+00:12:59,125 --> 00:13:02,541
+Ô ô ô. Loki, nhìn kìa, sao băng đó.
+Ước gì đi, nhanh lên!
+
+220
+00:13:02,625 --> 00:13:05,291
+Đúng đúng, một ngôi sao băng.
+Được rồi. Em ước… em ước…
+
+221
+00:13:06,791 --> 00:13:09,416
+Em ước… em ước…
+
+222
+00:13:11,666 --> 00:13:13,833
+– Uh… xong rồi!
+– Là gì vậy? Nói anh nghe đi.
+
+223
+00:13:13,916 --> 00:13:16,625
+Em không thể nói với anh được.
+Phép thuật bị phá hỏng mất.
+
+224
+00:13:16,708 --> 00:13:17,708
+Ồ.
+
+225
+00:13:26,125 --> 00:13:29,041
+Này, Whitesnake. Ta cần nói chuyện đấy.
+
+226
+00:13:29,125 --> 00:13:34,625
+Tên tôi là Thor, với chữ "T" và
+chữ "R" và chữ "O" và chữ "H."
+
+227
+00:13:34,708 --> 00:13:35,833
+Nhưng không theo thứ tự đó.
+
+228
+00:13:35,916 --> 00:13:38,583
+– Tiệc anh mở hay phết đấy.
+– Chứ không phải là tuyệt nhất à?
+
+229
+00:13:38,666 --> 00:13:41,041
+Ý tôi là, tôi đã hy vọng chỉ Ice Bros
+sẽ xuất hiện thôi,
+
+230
+00:13:41,125 --> 00:13:43,083
+cơ mà, chính Loki ấy hả? Hoàng tử Loki ấy?
+
+231
+00:13:43,166 --> 00:13:45,416
+Anh đang giỡn hả?
+Em sẽ không bỏ lỡ điều này đâu.
+
+232
+00:13:45,500 --> 00:13:48,416
+Nghe này, dọn dẹp đống hỗn độn này
+rồi rời khỏi hành tinh này đi.
+
+233
+00:13:48,500 --> 00:13:51,166
+Gì cơ? Không, tôi thích ở đây.
+Tất cả mọi người thích tôi mà.
+
+234
+00:13:51,250 --> 00:13:53,500
+Chúng tôi đang có một khoảng thời gian
+tuyệt vời… cho đến khi cô xuất hiện.
+
+235
+00:13:53,583 --> 00:13:55,333
+Bữa tiệc kết thúc rồi, anh bạn.
+
+236
+00:13:55,416 --> 00:14:00,250
+Ừm. Tôi nghĩ như này nè.
+Uh, cô biến đi thì sao nhỉ?
+
+237
+00:14:04,750 --> 00:14:05,750
+Ui!
+
+238
+00:14:11,416 --> 00:14:13,333
+Tôi không hỏi đâu.
+
+239
+00:14:14,916 --> 00:14:18,625
+Cô biết đấy, có một từ ở Trung Địa
+dành cho những người phụ nữ như cô đó.
+
+240
+00:14:20,375 --> 00:14:21,666
+Kẻ phá đám bữa tiệc.
+
+241
+00:14:22,500 --> 00:14:24,375
+Đấy. Tôi đã nói rồi.
+
+242
+00:14:24,458 --> 00:14:26,958
+Được rồi, cú này là vì Fury.
+
+243
+00:14:31,416 --> 00:14:32,666
+Giờ thì tất cả những người còn lại…
+
+244
+00:14:40,916 --> 00:14:42,833
+Đỡ đi này!
+
+245
+00:14:42,916 --> 00:14:45,125
+Hay đấy, anh bạn. Anh chỉ…
+
+246
+00:14:45,208 --> 00:14:46,833
+Búa-merang đó. Hiểu chứ?
+
+247
+00:14:46,916 --> 00:14:49,208
+Nghe này anh bạn, tôi sẽ đếm đến 3
+
+248
+00:14:49,291 --> 00:14:51,041
+và anh sẽ đặt chiếc búa xuống.
+
+249
+00:14:52,791 --> 00:14:55,125
+Ồ, lại bắt đầu rồi. Lại bắt đầu rồi.
+
+250
+00:14:58,500 --> 00:15:01,416
+Này, tôi đã nói gì với anh hả? Thôi ngay.
+
+251
+00:15:23,541 --> 00:15:25,916
+Này, thôi đi. Đây là…
+
+252
+00:15:26,000 --> 00:15:29,875
+Tôi không biết đây là những gì. Không ai biết cả.
+Nhưng không! Tôi đã nói là không! Dừng lại đi.
+
+253
+00:15:29,958 --> 00:15:33,125
+Ồ, nhưng tôi chỉ cần…
+BOOP.
+
+254
+00:15:42,250 --> 00:15:45,708
+Ôi không, những tảng đá kỳ cục
+của cô đã đổ xuống hết rồi kìa.
+
+255
+00:15:45,791 --> 00:15:47,208
+Boo-hoo-hoo-hoo.
+
+256
+00:15:51,000 --> 00:15:53,208
+Ao ôi!
+
+257
+00:16:02,583 --> 00:16:03,583
+Đúng là kẻ phá đám.
+
+258
+00:16:06,500 --> 00:16:09,500
+Nhập cuộc với cô ngay đây.
+Chỉ một giây thôi.
+
+259
+00:16:10,125 --> 00:16:13,291
+A đây rồi. Hú! Nhào vô nào.
+
+260
+00:16:52,708 --> 00:16:54,833
+Cô biết đấy, tôi đang bắt đầu…
+
+261
+00:16:54,916 --> 00:16:56,958
+Ao ôi! Không phải tóc chứ!
+
+262
+00:17:05,708 --> 00:17:07,458
+Ăn búa đi này!
+
+263
+00:17:42,375 --> 00:17:43,375
+Cô biết cô cần gì không?
+
+264
+00:17:43,458 --> 00:17:45,875
+Một ly rượu mạnh và hai tuần ở Hawaii à?
+
+265
+00:17:45,958 --> 00:17:47,166
+Bị cấm túc ấy.
+
+266
+00:17:47,250 --> 00:17:50,458
+Mẹ tôi luôn luôn phạt tôi bằng cách đó,
+nhưng tôi chả bao giờ học được gì cả.
+
+267
+00:17:50,541 --> 00:17:54,750
+Nhưng có thể sẽ có ích với cô
+vì cô là một kẻ phá đám bữa tiệc mà.
+
+268
+00:17:54,833 --> 00:17:57,291
+Này, mọi người nhìn nè!
+Một kẻ phá đám bữa tiệc.
+
+269
+00:17:57,375 --> 00:18:00,375
+Phá đám! Phá đám! Phá đám!
+
+270
+00:18:05,291 --> 00:18:07,125
+Fury nói rằng cô là người giỏi nhất.
+
+271
+00:18:07,208 --> 00:18:10,375
+Và cú đấm của cô tương đương
+với mười quả bom hạt nhân.
+
+272
+00:18:10,458 --> 00:18:12,708
+Rằng con mèo của cô có thể
+ăn tươi nuốt sống cả những đội quân.
+
+273
+00:18:12,791 --> 00:18:14,833
+Chị có một con mèo à?
+Tên của nó là gì vậy?
+
+274
+00:18:14,916 --> 00:18:15,958
+Goose.
+
+275
+00:18:16,041 --> 00:18:18,083
+Ồ, <i>Top Gun! </i> Chị là Maverick!
+
+276
+00:18:18,166 --> 00:18:20,500
+Chị có phải là người nói được
+nhưng không làm nổi không vậy?
+
+277
+00:18:20,583 --> 00:18:21,666
+– Không.
+– Đúng đấy.
+
+278
+00:18:22,333 --> 00:18:24,750
+– Cô là ai?
+– Darcy. Fan hâm mộ lớn đó ạ.
+
+279
+00:18:24,833 --> 00:18:27,458
+Nhân tiện, em cứ nghĩ chị phải là đàn ông cơ.
+
+280
+00:18:27,541 --> 00:18:29,458
+Nhưng nhìn chị nè, không hề.
+
+281
+00:18:29,541 --> 00:18:32,750
+Nếu tôi phát huy hết sức mạnh của mình, tôi sẽ
+tạo ra một cái hố rộng trên hành tinh này mất.
+
+282
+00:18:32,833 --> 00:18:36,041
+Hạ gục gã Kappa Kappa dị hợm đó
+thì không đáng để gây thương vong đâu.
+
+283
+00:18:36,125 --> 00:18:37,916
+Ồ. Thế còn ở Nam Dakota thì sao?
+
+284
+00:18:38,000 --> 00:18:39,625
+– Hay Bắc Dakota?
+
+285
+00:18:39,708 --> 00:18:42,416
+– Uh… tôi cần nghe máy đã.
+
+286
+00:18:42,500 --> 00:18:45,500
+Vậy, uh, chị có cần một thực tập sinh không?
+Trông mèo chẳng hạn?
+
+287
+00:18:45,583 --> 00:18:47,750
+Darcy, giờ em đang hấp tấp quá đó,
+
+288
+00:18:47,833 --> 00:18:49,666
+và giờ chị cần em giảm xuống
+mức còn nửa thôi.
+
+289
+00:18:49,750 --> 00:18:51,125
+– Được chứ?
+
+290
+00:18:51,208 --> 00:18:52,375
+– Alo?
+<i>– Jane!</i>
+
+291
+00:18:52,458 --> 00:18:54,291
+– Chào anh!
+-Khi nào tôi có thể gặp lại em?
+
+292
+00:18:54,375 --> 00:18:57,416
+Em là người phụ nữ Trung Địa đẹp nhất,
+xinh đẹp nhất mà tôi từng gặp đó.
+
+293
+00:18:57,500 --> 00:18:59,291
+Anh đã gặp bao nhiêu phụ nữ Trái đất rồi?
+
+294
+00:18:59,375 --> 00:19:01,291
+Uh, hai. Nhưng người
+kia đánh tôi bằng cả một cây cầu
+
+295
+00:19:01,375 --> 00:19:03,000
+và, tôi không chỉ bị đau
+ở mỗi mặt thôi đâu.
+
+296
+00:19:05,416 --> 00:19:07,500
+Thor, hãy thành thật với em đi.
+
+297
+00:19:07,583 --> 00:19:11,291
+Trong bữa tiệc cuối cùng của anh trên Sao Alpha,
+anh có thực sự phá hủy hành tinh đó không vậy?
+
+298
+00:19:11,375 --> 00:19:14,333
+Không, không, dù sao nó cũng giống một
+thiên thạch hơn, chứ không phải một hành tinh.
+
+299
+00:19:14,416 --> 00:19:17,291
+Và nó đang cháy dở, vì vậy
+bọn tôi chỉ cố giúp đỡ và…
+
+300
+00:19:17,375 --> 00:19:18,500
+Vậy, không ai bị thương à?
+
+301
+00:19:18,583 --> 00:19:19,875
+– Dĩ nhiên là không rồi.
+– Tiến sĩ Foster?
+
+302
+00:19:19,958 --> 00:19:22,208
+Ngay cả chú dê con, Gary ấy,
+cũng đã về nhà an toàn rồi.
+
+303
+00:19:22,291 --> 00:19:23,708
+– Về sau ấy.
+– Tiến sĩ Foster.
+
+304
+00:19:23,791 --> 00:19:25,750
+Uh, em phải đi rồi.
+Yêu anh. Ôi.
+
+305
+00:19:25,833 --> 00:19:27,458
+Ý em là, chào nhé.
+
+306
+00:19:29,000 --> 00:19:30,166
+Ta đã nói về vấn đề gì vậy?
+
+307
+00:19:30,250 --> 00:19:32,041
+Nghe này, tất cả những gì em đang nói là,
+
+308
+00:19:32,125 --> 00:19:34,708
+ sẽ không ai nhận ra nếu chị
+cho nổ một phần Dakota đâu.
+
+309
+00:19:34,791 --> 00:19:36,208
+Thành thật mà nói, em cũng
+không thể phân biệt chúng nữa.
+
+310
+00:19:36,291 --> 00:19:37,833
+Nam Dakota thì là phần dưới.
+
+311
+00:19:37,916 --> 00:19:39,125
+Đó không phải là một ý kiến tồi đâu.
+
+312
+00:19:39,208 --> 00:19:41,000
+Sa mạc Mojave có thể chịu được cú đánh.
+
+313
+00:19:41,083 --> 00:19:43,708
+Nhử anh ta đến Siberia và sau đó
+cho anh ta một trận.
+
+314
+00:19:45,125 --> 00:19:47,958
+Cô đùa phải không?
+Ta sẽ không làm vậy với anh ấy chứ.
+
+315
+00:19:48,041 --> 00:19:49,625
+Ta đang nói về số phận của hành tinh này đó.
+
+316
+00:19:49,708 --> 00:19:52,916
+Anh ấy chắc chắn là hơi "đần",
+và cũng không hẳn là ngu dốt lắm.
+
+317
+00:19:53,000 --> 00:19:57,250
+Nhưng kế hoạch này thì hơi quá,
+và tôi từ chối việc ta làm vậy.
+
+318
+00:19:57,333 --> 00:20:00,458
+Cảm ơn vì chuyên môn của cô,
+Tiến sĩ Foster,
+
+319
+00:20:00,541 --> 00:20:03,333
+nhưng chúng tôi không cần cô giúp nữa.
+
+320
+00:20:06,458 --> 00:20:09,541
+Chết tiệt! Thế là đi tong kỳ thực tập của em
+với Chị ong chúa thiên hà rồi.
+
+321
+00:20:09,625 --> 00:20:14,583
+Chà, nhìn xem ai đã lạch bạch trở về nè.
+Quý Bà Vịt.
+
+322
+00:20:14,666 --> 00:20:17,041
+– Không phải bây giờ, Howard!
+– Alo, Thor à?
+
+323
+00:20:17,125 --> 00:20:18,875
+– Đây là ai thế?
+<i>– Là Jane. Anh có nghe thấy em không?</i>
+
+324
+00:20:18,958 --> 00:20:22,250
+Đợi đã. Đây có phải là cô gái đó không?
+Quý cô ngọt ngào mới của Thor à? Xin chào.
+
+325
+00:20:22,333 --> 00:20:23,375
+Thor có ở đó không?
+
+326
+00:20:23,458 --> 00:20:27,250
+Đồ ăn khuya Trung là tuyệt nhất.
+Ôi tôi yêu đồ ăn.
+
+327
+00:20:27,333 --> 00:20:30,208
+Loki, xách cái mông xanh đó qua đây đi.
+Cậu phải thử mấy chiếc há cảo này mới được.
+
+328
+00:20:30,291 --> 00:20:33,458
+Này, cô gái Trái đất.
+Cô chưa có một người bạn, phải không?
+
+329
+00:20:33,541 --> 00:20:35,333
+Cô biết đấy, ta có thể hẹn hò đôi đó.
+
+330
+00:20:35,416 --> 00:20:38,083
+Ugh! Anh đưa điện thoại cho anh ấy được không?
+
+331
+00:20:38,166 --> 00:20:40,500
+Ồ, đừng bực tức chứ.
+Anh ấy ở ngay đây… Ôi!
+
+332
+00:20:44,166 --> 00:20:46,166
+Phải rồi.
+
+333
+00:20:46,250 --> 00:20:47,416
+Alo? Loki?
+
+334
+00:20:48,041 --> 00:20:51,125
+– Này, này. Cẩn thận đi chứ.
+
+335
+00:20:51,208 --> 00:20:53,666
+– Tiếc là ta không thể gọi cho mẹ anh ấy nhỉ.
+– Gì cơ?
+
+336
+00:20:53,750 --> 00:20:54,875
+Đó là điều luôn xảy ra mà.
+
+337
+00:20:54,958 --> 00:20:57,166
+Thanh thiếu niên tổ chức tiệc tùng,
+rồi vượt quá tầm kiểm soát…
+
+338
+00:20:57,250 --> 00:20:59,166
+– Ôi em thực sự là một thiên tài.
+– Whoa.
+
+339
+00:20:59,250 --> 00:21:02,500
+Thực sự là vậy đúng không?
+Em đã nói gì ấy nhỉ?
+
+340
+00:21:02,583 --> 00:21:05,041
+Nếu có Thor và Loki,
+
+341
+00:21:05,125 --> 00:21:09,541
+ thì chắc chắn phải có Odin,
+Frigga và Heimdall nữa!
+
+342
+00:21:09,625 --> 00:21:10,791
+Uh, ai cơ?
+
+343
+00:21:15,708 --> 00:21:20,291
+Em biết đấy, tôi cũng đã có một chiếc vương miện,
+và cả hai ta đều thích lửa, phải không?
+
+344
+00:21:20,375 --> 00:21:22,583
+Hãy xem em nóng lên với thứ này nào.
+
+345
+00:21:22,666 --> 00:21:25,708
+Uh… Ui, muộn quá rồi nè.
+
+346
+00:21:30,333 --> 00:21:33,416
+Mình có thể xuống thấp đến mức nào đây?
+
+347
+00:21:40,083 --> 00:21:42,958
+Tất cả mọi người! Hãy xem tôi
+trượt xuống cái thứ nhọn hoắt đó nè.
+
+348
+00:21:46,125 --> 00:21:47,125
+Bay thôi!
+
+349
+00:21:49,416 --> 00:21:51,250
+Hú!
+
+350
+00:22:02,541 --> 00:22:06,958
+Cái này cắm vào đây.
+Được rồi, tuyệt lắm. Ổn rồi đó.
+
+351
+00:22:07,041 --> 00:22:08,125
+Selvig, cảm ơn thầy.
+
+352
+00:22:08,208 --> 00:22:11,333
+Căn chỉnh lại các vệ tinh, phóng đại tín hiệu.
+
+353
+00:22:13,458 --> 00:22:15,291
+Heimdall!
+
+354
+00:22:17,333 --> 00:22:20,250
+– Không hoạt động rồi.
+– Được rồi được rồi. Đến lượt em. Để em.
+
+355
+00:22:20,333 --> 00:22:23,666
+Chủ nhân của chiếc Prius
+màu xanh hải quân có…
+
+356
+00:22:38,208 --> 00:22:41,708
+Chào. Vậy, uh, về Thor ấy…
+
+357
+00:22:48,083 --> 00:22:51,041
+Không hay đâu.
+Thực sự đau đó.
+
+358
+00:22:56,833 --> 00:22:58,875
+– Ta vào vị trí rồi.
+– Chuẩn bị vũ khí hạt nhân đi.
+
+359
+00:22:58,958 --> 00:23:01,000
+Gì cơ? Nhưng tôi tưởng
+cô ấy chính là vũ khí hạt nhân.
+
+360
+00:23:01,083 --> 00:23:03,125
+Phòng khi cô ấy bị phân tâm bởi một con mèo.
+
+361
+00:23:05,166 --> 00:23:09,958
+Uh… Xin chào, bà Vợ-Odin?
+
+362
+00:23:10,666 --> 00:23:12,416
+Uh, đó có phải là rượu Chardonnay không?
+
+363
+00:23:12,500 --> 00:23:15,291
+Vang nho đó, vâng. Tôi có thể giúp gì cô?
+
+364
+00:23:15,375 --> 00:23:18,041
+Tại sao cô nhất quyết muốn
+phá cuộc vui của tôi vậy?
+
+365
+00:23:18,125 --> 00:23:20,541
+Hả? Thả lỏng đi.
+Vui lên. Cười lên xíu.
+
+366
+00:23:21,791 --> 00:23:23,208
+Sẵn sàng bắn theo lệnh của bà.
+
+367
+00:23:23,291 --> 00:23:25,166
+Bắn trong năm…
+
+368
+00:23:25,250 --> 00:23:28,583
+Tôi đã cảnh báo anh.
+Tôi đã cho anh một cú đấm cảnh cáo rồi.
+
+369
+00:23:28,666 --> 00:23:31,333
+– Bốn.
+– Đó là Thor ấy. Anh ấy gặp rắc rối.
+
+370
+00:23:33,333 --> 00:23:35,083
+– Ba.
+– Anh ấy đang ở trên Trái đất.
+
+371
+00:23:36,083 --> 00:23:37,625
+Hai.
+
+372
+00:23:38,958 --> 00:23:40,875
+– Còn Captain Marvel thì sao?
+– Cô ấy sẽ ổn thôi.
+
+373
+00:23:40,958 --> 00:23:42,458
+Một.
+
+374
+00:23:45,625 --> 00:23:50,666
+Thor, Hoàng tử Asgard, con trai duy nhất
+của Odin, con đang làm gì vậy?
+
+375
+00:23:50,750 --> 00:23:52,083
+– Mẹ!
+– Mẹ?
+
+376
+00:23:52,166 --> 00:23:53,208
+Mẹ?
+
+377
+00:23:53,291 --> 00:23:54,625
+Mẹ đang làm gì ở đây vậy?
+
+378
+00:23:54,708 --> 00:23:57,625
+Chắc mẹ đã phải sử dụng rất nhiều
+ma thuật đen chỉ để kiểm tra con nhỉ?
+
+379
+00:23:57,708 --> 00:24:01,166
+Ugh, mẹ có một vị khách.
+Cô ấy đang lo cho con.
+
+380
+00:24:01,250 --> 00:24:03,625
+Cái gì… Jane đã bán đứng con à?
+
+381
+00:24:03,708 --> 00:24:05,541
+Cô ấy nói con đã ở Trung Địa.
+
+382
+00:24:05,625 --> 00:24:07,333
+Cô ấy nhầm mà mẹ.
+
+383
+00:24:07,416 --> 00:24:10,250
+Rõ ràng là con đang học
+trong phòng của mình mà.
+
+384
+00:24:13,791 --> 00:24:17,375
+– Đừng nói những điều gian dối với mẹ con nhé.
+
+385
+00:24:17,458 --> 00:24:21,583
+Ồ, ý mẹ là Trái đất.
+Xin lỗi, con đã hiểu lầm mẹ rồi.
+
+386
+00:24:21,666 --> 00:24:24,791
+Người dân địa phương gọi nó như vậy.
+Vâng, phải rồi. Con xin lỗi.
+
+387
+00:24:24,875 --> 00:24:26,416
+Lúc đó con hơi lẫn xíu.
+
+388
+00:24:26,500 --> 00:24:30,916
+Con và nhóm bạn học xuống đây
+để giao lưu văn hóa ấy mà.
+
+389
+00:24:31,000 --> 00:24:33,375
+"Giao lưu văn hoá" à.
+
+390
+00:24:33,458 --> 00:24:35,708
+Mẹ biết chúng con mà.
+Bọn con là những chiến binh vì kiến thức đó.
+
+391
+00:24:35,791 --> 00:24:39,416
+Hmm! Có thật không?
+Thế thì mẹ phải tận mắt xem mới được.
+
+392
+00:24:39,500 --> 00:24:41,375
+Mẹ sẽ về sớm vậy.
+
+393
+00:24:41,458 --> 00:24:42,750
+Mẹ sẽ đến đây ạ?
+
+394
+00:24:42,833 --> 00:24:48,458
+Và, con trai yêu của mẹ, mẹ mong sẽ được
+thấy toàn bộ giáo trình của con khi mẹ đến nơi.
+
+395
+00:24:49,833 --> 00:24:51,208
+Bây giờ hoặc không bao giờ, Hill ạ.
+
+396
+00:24:51,833 --> 00:24:53,458
+Thôi. Ta xong việc rồi.
+
+397
+00:24:53,541 --> 00:24:56,166
+Ta chả bao giờ bắn được
+vũ khí hạt nhân cả.
+
+398
+00:24:56,250 --> 00:24:57,958
+Tôi gần như thấy tệ cho anh đó,
+Tóc Vàng Hoe ạ.
+
+399
+00:24:58,041 --> 00:25:00,958
+Làm ơn, cô phải giúp tôi.
+Mẹ tôi đang đến rồi.
+
+400
+00:25:01,041 --> 00:25:04,708
+Theo đề xuất của tôi thì… Dọn từ trong góc trước,
+rồi dọn dần ra bên ngoài nhé.
+
+401
+00:25:07,083 --> 00:25:08,166
+Góc, góc…
+
+402
+00:25:08,250 --> 00:25:10,291
+Nhưng nó là một quả cầu mà?
+
+403
+00:25:11,250 --> 00:25:15,875
+Ugh. Xin lỗi, các quý cô. Chị xin lỗi,
+nhưng chị phải về sớm rồi. Lại thêm lần nữa.
+
+404
+00:25:17,583 --> 00:25:19,958
+Loki, cậu em của anh.
+Anh cần cậu giúp anh đó.
+
+405
+00:25:20,041 --> 00:25:22,291
+Ah, bọn em đã làm trước luôn rồi,
+Chàng Sấm Bé Nhỏ ạ.
+
+406
+00:25:22,375 --> 00:25:25,708
+Anh em em đang thử thứ này ở St. Louis.
+Saint… Có phải là "Louie" không nhỉ?
+
+407
+00:25:25,791 --> 00:25:27,375
+Dù sao thì, bọn em sắp
+
+408
+00:25:27,458 --> 00:25:29,916
+– làm một chiếc súng cao su
+vĩ đại nhất vũ trụ này đó.
+
+409
+00:25:30,000 --> 00:25:32,041
+Hãy cố tận hưởng
+thời gian còn lại ở đây nhé.
+
+410
+00:25:32,125 --> 00:25:34,708
+Hẹn gặp lại chị em trong
+một nghìn năm nữa. Heimdall.
+
+411
+00:25:36,250 --> 00:25:40,208
+Không súng cao su gì hết. Không phá hoại nữa.
+Ta cần phải dọn dẹp đống lộn xộn này và về nhà thôi.
+
+412
+00:25:42,166 --> 00:25:43,666
+Ugh! Ngay đi!
+
+413
+00:25:44,833 --> 00:25:47,958
+Ha! Hay lắm. Em suýt tin rồi đó.
+
+414
+00:25:48,041 --> 00:25:50,875
+Anh không nói đùa đâu.
+Mẹ anh đang đến rồi.
+
+415
+00:25:57,125 --> 00:25:58,125
+Hmm.
+
+416
+00:25:58,208 --> 00:25:59,708
+Nhưng bà ấy đâu phải là mẹ em.
+
+417
+00:25:59,791 --> 00:26:02,291
+Anh biết đấy, em là em trai anh
+từ một người mẹ khác mà, nhớ không?
+
+418
+00:26:02,375 --> 00:26:04,833
+Nào, Ice Bros, đi thôi.
+
+419
+00:26:04,916 --> 00:26:06,750
+Đợi đã. Em không thể đi.
+Hãy nhìn nơi này đi.
+
+420
+00:26:06,833 --> 00:26:09,333
+Ta có nghĩa vụ với hành tinh này.
+Em cần phải dọn sạch nó.
+
+421
+00:26:09,416 --> 00:26:12,125
+"Nghĩa vụ, dọn sạch"?
+Ugh, anh nghe như Odin ấy.
+
+422
+00:26:12,208 --> 00:26:13,291
+Gì cơ?
+
+423
+00:26:13,375 --> 00:26:14,708
+Ice Men, làm thôi.
+
+424
+00:26:18,375 --> 00:26:20,125
+Được rồi, nghe đây, bữa tiệc kết thúc rồi.
+
+425
+00:26:20,208 --> 00:26:23,208
+Các bạn không cần phải về nhà,
+nhưng các bạn không thể ở lại đây nữa.
+
+426
+00:26:23,291 --> 00:26:25,166
+Chờ đã, mọi người đi đâu vậy?
+Quay lại đi.
+
+427
+00:26:25,250 --> 00:26:26,375
+Không không không không không.
+
+428
+00:26:26,458 --> 00:26:29,458
+Mọi người phải ở lại đây, và
+chúng ta cần phải dọn dẹp nơi này.
+
+429
+00:26:29,541 --> 00:26:31,750
+Nhìn xem ai đang phá hoại bữa tiệc nè.
+
+430
+00:26:31,833 --> 00:26:34,375
+Là anh đó! Anh đang phá hoại bữa tiệc đấy.
+
+431
+00:26:34,458 --> 00:26:35,833
+– Mọi người đi đâu vậy?
+Quay lại đi!
+
+432
+00:26:35,916 --> 00:26:38,208
+Đi thôi, Topaz.
+Ta sẽ phi đi như gió vậy.
+
+433
+00:26:38,291 --> 00:26:39,583
+– Làm ơn đấy! Đợi đã.
+– Kẻ thua cuộc.
+
+434
+00:26:39,666 --> 00:26:41,291
+Và ta sẽ giữ lại mấy chiếc xe này.
+
+435
+00:26:41,375 --> 00:26:44,625
+Các bạn, làm ơn. Giúp, tôi…
+Cô. Còn cô thì sao?
+
+436
+00:26:44,708 --> 00:26:47,958
+Uh… tôi nghĩ tôi nghe thấy
+bố tôi gọi mất rồi. Chúc may mắn nhé.
+
+437
+00:26:53,291 --> 00:26:57,541
+Mọi người. Làm ơn đấy.
+Mọi người phải ở lại giúp đỡ tôi chứ.
+
+438
+00:27:00,416 --> 00:27:02,958
+Cha ơi, hãy cho con sức mạnh.
+
+439
+00:27:08,375 --> 00:27:10,333
+Mọi người sẽ phải nghe tôi.
+
+440
+00:27:12,291 --> 00:27:14,125
+Mẹ tôi đang đến.
+
+441
+00:27:14,208 --> 00:27:18,000
+– Frigga à?
+– Và bà đang rất không vui.
+
+442
+00:27:18,083 --> 00:27:20,208
+Kiểu, không vui một chút nào cả.
+
+443
+00:27:20,291 --> 00:27:21,583
+Bà thực sự tức giận đó.
+
+444
+00:27:38,125 --> 00:27:39,208
+Tuyệt đấy em yêu.
+
+445
+00:28:02,166 --> 00:28:03,166
+Thor.
+
+446
+00:28:05,250 --> 00:28:09,083
+Ôi chào Mẹ. Rất vui được gặp mẹ. Chào mừng mẹ
+đến với nhóm nghiên cứu của chúng con.
+
+447
+00:28:09,166 --> 00:28:11,000
+Uh…
+
+448
+00:28:11,083 --> 00:28:13,000
+Mọi người chào Mẹ đi nào.
+
+449
+00:28:13,083 --> 00:28:14,708
+Xin chào, Mẹ Frigga.
+
+450
+00:28:14,791 --> 00:28:17,500
+Và để kết thúc nghiên cứu của ta,
+ta luôn nói gì nhỉ, cả lớp?
+
+451
+00:28:17,583 --> 00:28:19,500
+Học tập là điều kỳ diệu.
+
+452
+00:28:20,791 --> 00:28:24,375
+Thấy chưa? Con đã nói với mẹ rằng con đang
+tham gia một cuộc trao đổi văn hóa và giáo dục mà.
+
+453
+00:28:24,458 --> 00:28:27,541
+Mẹ có biết rằng Trung Địa
+là nơi tạo ra chăn Snuggie không?
+
+454
+00:28:29,875 --> 00:28:32,083
+Mẹ, mẹ không tin con à?
+
+455
+00:28:34,125 --> 00:28:36,375
+Nhưng mẹ hãy nhìn vào
+tất cả việc học này đi?
+
+456
+00:28:43,625 --> 00:28:46,875
+Thor, đây là thông tin anh yêu cầu
+về các nền văn minh của loài người.
+
+457
+00:28:46,958 --> 00:28:50,875
+Và tôi đã tải một vài bộ phim tài liệu,
+chương trình đặc biệt của PBS, podcast NPR nữa.
+
+458
+00:28:50,958 --> 00:28:52,625
+Tôi sẽ gọi cho anh vào tuần tới
+để thảo luận về nó.
+
+459
+00:28:52,708 --> 00:28:58,291
+Rất nhỏ nhưng chứa được rất nhiều.
+Cảm ơn cô.
+
+460
+00:28:58,375 --> 00:29:00,500
+Bác chắc hẳn là Frigga.
+Tôi là Captain Marvel.
+
+461
+00:29:00,583 --> 00:29:05,291
+Tôi biết cô là ai mà
+Cảm ơn vì đã giúp giáo dục con trai tôi.
+
+462
+00:29:05,375 --> 00:29:07,000
+– Đi thôi, con yêu.
+– Đợi đã.
+
+463
+00:29:07,083 --> 00:29:09,166
+Suýt nữa thì quên mất.
+
+464
+00:29:12,291 --> 00:29:14,041
+Uh…
+
+465
+00:29:14,125 --> 00:29:15,458
+Mẹ, con có thể giải thích.
+
+466
+00:29:25,125 --> 00:29:26,791
+– Chào em.
+– Cảm ơn anh.
+
+467
+00:29:26,875 --> 00:29:28,500
+Em đã mách mẹ tôi đó.
+
+468
+00:29:28,583 --> 00:29:30,166
+Đó không phải là
+một điều hay để làm đâu,
+
+469
+00:29:30,250 --> 00:29:33,083
+nhưng đó là một điều đúng đắn.
+Nên, cảm ơn em.
+
+470
+00:29:34,666 --> 00:29:35,916
+Không có gì.
+
+471
+00:29:36,000 --> 00:29:38,416
+Tôi sẽ gọi cho em nhé?
+Nhiều được chứ?
+
+472
+00:29:38,500 --> 00:29:40,458
+Không, không phải "Nhiều được chứ" đâu.
+
+473
+00:29:40,541 --> 00:29:41,750
+Không á?
+
+474
+00:29:41,833 --> 00:29:44,791
+Nhưng tôi nghĩ rằng ta đã có gì đó mà.
+Tôi thực sự thích em đó Jane.
+
+475
+00:29:44,875 --> 00:29:47,958
+Và không chỉ bởi vì em là một thiên tài.
+Em cũng rất hấp dẫn và…
+
+476
+00:29:48,541 --> 00:29:50,208
+Vậy thì, mời em đi hẹn hò đi.
+
+477
+00:29:50,291 --> 00:29:51,708
+Ồ.
+
+478
+00:29:51,791 --> 00:29:55,625
+Jane Foster, tôi rất vinh dự
+khi được dẫn em đi hẹn hò.
+
+479
+00:29:55,708 --> 00:30:00,791
+Trước khi em trả lời, hãy để tôi nói rằng
+tôi biết một hành tinh có đầy kỳ lân đó.
+
+480
+00:30:00,875 --> 00:30:02,541
+Ngay cả những bồi bàn cũng là kỳ lân luôn…
+
+481
+00:30:02,625 --> 00:30:05,416
+– Tuyệt lắm ấy.
+– Nghe thú vị đó. Đón em lúc 8 giờ nhé?
+
+482
+00:30:16,333 --> 00:30:19,750
+Một thế giới được phục hồi,
+và tình yêu thì chớm nở.
+
+483
+00:30:19,833 --> 00:30:24,000
+Khi còn nhỏ, cả con người Trái Đất
+và người Asgard thường nói rằng,
+
+484
+00:30:24,083 --> 00:30:27,916
+cùng nhau, họ hạnh phúc mãi mãi về sau.
+
+485
+00:30:29,000 --> 00:30:30,000
+Chờ đã, gì vậy?
+
+486
+00:30:30,083 --> 00:30:31,083
+Huh?
+
+487
+00:30:35,375 --> 00:30:39,708
+Ôi trời.
+Có lẽ tôi đã nói quá sớm rồi.
+
+488
+00:30:46,525 --> 00:31:00,041
+…
