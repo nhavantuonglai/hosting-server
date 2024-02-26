@@ -1,0 +1,118 @@
+{
+  "main": [
+    {
+      "name": "Trang chủ",
+      "url": "/"
+    },
+    {
+      "name": "Giới thiệu",
+      "url": "/about"
+    },
+    {
+      "name": "Bài viết",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Danh sách",
+          "url": "/blog"
+        },
+        {
+          "name": "Viết lách",
+          "url": "/categories/viet-lach"
+        },
+        {
+          "name": "Viết thuê",
+          "url": "/categories/viet-thue"
+        },
+        {
+          "name": "Thư viện",
+          "url": "/categories/thu-vien"
+        },
+        {
+          "name": "Kỹ thuật",
+          "url": "/categories/developer"
+        }
+      ]
+    },
+    {
+      "name": "Phân loại",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Danh sách",
+          "url": "/blog"
+        },
+        {
+          "name": "Tác giả",
+          "url": "/authors"
+        },
+        {
+          "name": "Danh mục",
+          "url": "/categories"
+        },
+        {
+          "name": "Thể loại",
+          "url": "/tags"
+        }
+      ]
+    },
+    {
+      "name": "Dịch vụ",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Đào tạo viết lách",
+          "url": "/viet-lach-dao-tao"
+        },
+        {
+          "name": "Viết bài chuẩn SEO",
+          "url": "/viet-lach-chuan-seo"
+        },
+        {
+          "name": "Thiết kế website",
+          "url": "/thiet-ke-website"
+        }
+      ]
+    },
+    {
+      "name": "Công cụ",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Xử lý ảnh",
+          "url": "https://www.iloveimg.com/"
+        },
+        {
+          "name": "Xử lý tài liệu",
+          "url": "/blog"
+        },
+        {
+          "name": "Xử lý nhạc",
+          "url": "https://www.freeconvert.com/"
+        },
+        {
+          "name": "Thống kê ký tự",
+          "url": "https://seoscout.com/"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "RSS",
+      "url": "/elements"
+    },
+    {
+      "name": "Sitemaps",
+      "url": "/privacy-policy"
+    }
+  ]
+}

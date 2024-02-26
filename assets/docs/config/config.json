@@ -1,0 +1,41 @@
+{
+  "site": {
+    "title": "Hướng dẫn viết lách, tư vấn chiến lược content từ nhavantuonglai",
+    "base_url": "https://nhavantuonglai.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "https://info.nhavantuonglai.com/favicon",
+    "logo": "https://info.nhavantuonglai.com/favicon",
+    "logo_darkmode": "",
+    "logo_width": "150",
+    "logo_height": "30",
+    "logo_text": "nhavantuonglai"
+  },
+
+  "settings": {
+    "search": true,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 20,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Xuất bản từ 2015 | [nhavantuonglai](https://nhavantuonglai.com)."
+  },
+
+  "navigation_button": {
+    "enable": true,
+    "label": "Tìm hiểu thêm",
+    "link": "https://info.nhavantuonglai.com/instagram"
+  },
+
+  "metadata": {
+    "meta_author": "nhavantuonglai",
+    "meta_image": "https://server.nhavantuonglai.com/assets/image/illustrations/image-nhavantuonglai-581.jpeg",
+    "meta_description": "nhavantuonglai"
+  }
+}

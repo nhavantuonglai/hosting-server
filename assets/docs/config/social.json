@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "FaFacebook",
+      "link": "https://info.nhavantuonglai.com/fanpage"
+    },
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://info.nhavantuonglai.com/github"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedin",
+      "link": "https://info.nhavantuonglai.com/linkedin"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaGoogle",
+      "link": "https://info.nhavantuonglai.com/search"
+    }
+  ]
+}
