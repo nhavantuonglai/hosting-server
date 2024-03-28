@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://nhavantuonglai.com/sitemap.xml
+Sitemap: https://data.nhavantuonglai.com/sitemap.xml
